@@ -9,6 +9,16 @@ description: Use this skill when the user asks Codex to open a Feishu/Lark wiki,
 
 Restore the user's preferred filters on a Feishu/Lark table before they inspect data. The public skill defines the workflow; private table links, field names, and filter presets live in `local-filters.md`, which is ignored by git.
 
+## Required Access
+
+This skill works by operating the Feishu/Lark web UI. It needs a usable browser or desktop-control surface where the user is already signed in, such as:
+
+- Codex in-app browser with Feishu/Lark signed in
+- The user's Chrome browser, if Codex has permission to inspect and operate the page
+- Desktop/browser automation with enough access to click controls and read visible filter state
+
+This skill does not assume direct Feishu/Lark API access. If Codex cannot read the page structure or reliably operate the filter UI, ask the user to open the table in an accessible browser session or grant the required browser/computer-control permission.
+
 ## Local Configuration
 
 Before applying filters, look for a local config file next to this skill:
@@ -83,4 +93,3 @@ Use a compact confirmation:
 ```
 
 Do not include all visible rows unless the user asks for the data.
-
