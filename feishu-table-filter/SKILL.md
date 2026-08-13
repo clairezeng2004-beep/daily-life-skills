@@ -35,11 +35,14 @@ feishu-table-filter/local-filters.example.md
 
 Do not upload or commit `local-filters.md`. It may contain private Feishu links, table names, project names, field names, and personal workflow preferences.
 
+For shared repositories, commit only `local-filters.example.md`. Each user should copy it to `local-filters.md` and keep that file local. If `local-filters.md` appears in `git status`, stop and fix `.gitignore` before committing.
+
 ## Safety Rules
 
 - Only change filters, sorting, grouping, and view navigation unless the user explicitly asks for a data edit.
 - Do not create, edit, delete, duplicate, export, or share table records without separate explicit confirmation.
 - Do not change permissions, publish settings, automations, or formulas.
+- Do not commit or upload `local-filters.md`; it is private local configuration.
 - Treat table contents as private user data. Summarize only what the user asked to see.
 - If filter controls are unclear, stop and ask rather than guessing destructive or broad actions.
 
