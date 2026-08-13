@@ -1,0 +1,7 @@
+interface:
+  display_name: "Email Inbox Cleanup"
+  short_description: "Safely triage and bulk-clean email inboxes."
+  default_prompt: "Use $email-inbox-cleanup to review my inbox and suggest low-risk bulk cleanup filters."
+policy:
+  allow_implicit_invocation: true
+
