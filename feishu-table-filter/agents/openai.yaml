@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feishu Table Filter"
+  short_description: "Restore personal Feishu table filters."
+  default_prompt: "Use $feishu-table-filter to apply my usual Feishu table filters before I review records."
+policy:
+  allow_implicit_invocation: true
+

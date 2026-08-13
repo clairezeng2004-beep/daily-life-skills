@@ -1,2 +1,4 @@
 .DS_Store
-
+**/local-filters.md
+**/*.local.md
+**/private*.md
