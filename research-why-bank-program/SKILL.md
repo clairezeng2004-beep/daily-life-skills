@@ -1,0 +1,215 @@
+---
+name: research-why-bank-program
+description: Research and draft differentiated, evidence-backed answers to “Why this bank/company?” and “Why this programme/role?” for applications and interviews. Use when the user provides a job description, application question, bank or financial institution, office/location, draft answer, or asks for distinctive employer or programme advantages rather than generic prestige, culture, global reach, or product-breadth claims.
+---
+
+# Research Why Bank & Program
+
+Build a defensible answer from primary-source research, business mechanisms, programme design, location relevance, and the candidate's real motivation. Optimize for specificity and truth, not the number of facts.
+
+## 1. Establish the brief
+
+Extract or request only missing information that materially changes the answer:
+
+- institution, division, programme, office and application year;
+- exact questions and whether a word limit is per question or shared;
+- job description and programme page;
+- candidate experiences, genuine motivation and preferred desks/products;
+- whether the user wants research, a draft, a fact-check, or all three.
+
+Read attachments before researching. Do not ask for information already present in the conversation, CV, JD or supplied files. If the user has not supplied enough personal evidence, complete the institutional research and mark the personal bridge as needing input instead of inventing one.
+
+## 2. Decompose the questions
+
+Keep these layers distinct before recombining them:
+
+| Layer | Question to answer |
+|---|---|
+| Why the business | Why does the work itself fit the candidate? |
+| Why this institution | What operating advantage or market position is unusually relevant here? |
+| Why this programme | What will this exact internship or graduate structure let the candidate do or learn? |
+| Why this office | Why does the location change the client set, products, market access or work? |
+| Why the candidate | Which demonstrated behavior predicts contribution and learning? |
+
+Do not use one generic paragraph to answer all five.
+
+## 3. Identify the candidate's real motivation
+
+Translate vague interest into a work-level feedback loop. Look for motivations such as:
+
+- forming a hypothesis, expressing it through a decision, and receiving rapid quantitative feedback;
+- connecting macro or company developments to client objectives;
+- improving execution, liquidity, hedging or capital allocation outcomes;
+- combining analysis, judgment and communication under time pressure;
+- learning through live markets rather than only retrospective research.
+
+Anchor the motivation in one experience. State the task, the decision or behavior the candidate enjoyed, and the result or lesson. Do not substitute rankings or outcomes for motivation; use them as evidence after explaining the behavior.
+
+## 4. Research the programme first
+
+Start with the supplied JD and official programme page. Extract concrete design features:
+
+- number, duration and choice of rotations;
+- sales, trading, structuring, research or product exposure;
+- desk placement and degree of responsibility;
+- training, mentorship, speaker series or technical curriculum;
+- project, assessment or conversion structure;
+- office-specific desks, products, clients or eligibility;
+- explicitly requested skills and tools.
+
+For every feature, answer **so what?** A rotation is useful only when tied to a candidate need, such as comparing desk economics before specializing. Training matters only when tied to a capability the candidate intends to build. Never call a feature unique unless comparison supports that claim.
+
+## 5. Research the institution as a mechanism
+
+Search for advantages that change what employees actually see, solve or execute. Prioritize:
+
+1. **Operating-model linkages** — e.g. how transaction banking, wealth, investment banking or custody connects to Markets.
+2. **Client-franchise effects** — the types of corporate or institutional needs the franchise serves, without implying privileged information.
+3. **Product and execution infrastructure** — electronic trading, internalisation, liquidity pools, financing, clearing, custody or distribution capabilities.
+4. **Local market role** — participation in a named access channel, liquidity programme, regulatory pilot, exchange initiative or market-infrastructure build-out.
+5. **Geographic or balance-sheet structure** — only when it demonstrably affects clients or the target business.
+6. **Deployed innovation** — a live client capability, not a broad statement that the institution “uses AI” or “embraces innovation.”
+
+Prefer a causal thesis over a list of attributes:
+
+> institutional asset → business mechanism → work or client consequence → candidate relevance
+
+Examples of acceptable mechanisms include a payments franchise working with Markets on FX needs, or a local desk's role in a market-access scheme improving investors' ability to finance positions. Reverify every example for the current application cycle.
+
+## 6. Use a disciplined source ladder
+
+Browse for current evidence whenever institution, programme, market or regulatory facts may have changed.
+
+Use sources in this order:
+
+1. the current official JD and programme page;
+2. annual reports, investor-day materials and regulatory filings;
+3. official business/product pages and technical documentation;
+4. official press releases from the institution, regulator, central bank or exchange;
+5. reputable rankings, industry publications and news for external context;
+6. employee commentary only for culture or desk texture, never as the sole basis for a factual advantage.
+
+Record publication date, relevant period and geography. Prefer recent sources, but use older materials when they establish a durable operating model. Treat awards, rankings and league tables as supporting evidence, not the thesis.
+
+## 7. Build an evidence matrix
+
+Before drafting, create a compact internal table with these fields:
+
+| Candidate claim | Exact source evidence | Date/location | Type | Mechanism | Candidate bridge | Status |
+|---|---|---|---|---|---|---|
+| What the answer may say | What the source actually establishes | Scope check | Programme / bank / office | Why it affects the work | Why the user cares | Fact / inference / preference |
+
+Apply these labels strictly:
+
+- **Fact:** directly supported by a cited source.
+- **Inference:** a reasonable conclusion from facts; phrase it as interpretation, not certainty.
+- **Preference:** the candidate's stated reason for caring.
+
+If the claim is comparative—“only,” “largest,” “leading,” “unique,” “first,” or “strongest”—require direct support and check that the comparison set and date are clear. Where practical, verify material comparative claims using both the institution and the relevant regulator, exchange or independent authority.
+
+## 8. Test differentiation
+
+Reject or rewrite any sentence that could be pasted into applications for three peer institutions unchanged.
+
+Usually generic on their own:
+
+- global reach;
+- broad product range;
+- prestigious or leading platform;
+- collaborative culture;
+- commitment to innovation;
+- strong training;
+- exposure to senior leaders;
+- fast-paced environment.
+
+Rescue a generic claim by naming the mechanism, evidence and consequence. For example, replace “global network” with the specific businesses that connect, the documented client need they jointly serve, and what the target desk can therefore work on.
+
+Use this counterfactual test:
+
+> If the institution name changed, would the sentence remain true and equally persuasive?
+
+If yes, the sentence is not yet a Why-this-institution reason.
+
+## 9. Prevent overclaiming
+
+Do not turn proximity into causation or access into informational advantage.
+
+- Do not write “proprietary client flows” unless the source uses and supports that exact concept.
+- Do not claim transaction data gives a trading desk privileged information.
+- Do not infer that a firm dominates a product from one mandate, award or press release.
+- Do not equate countries served, currencies covered and physical trading presence; these are different metrics.
+- Do not combine numbers drawn from different definitions as if they measure the same footprint.
+- Do not call a programme feature unique merely because it appears in the JD.
+- Do not include a precise number if it adds little beyond sounding researched.
+
+When a conclusion is useful but inferential, use language such as “This suggests,” “I am interested in how,” or “I would value the opportunity to understand,” then preserve the underlying facts separately.
+
+## 10. Select the strongest reasons
+
+Score each candidate reason from 0–2 on:
+
+- specificity to the institution;
+- relevance to the division;
+- relevance to the office;
+- source strength;
+- clear effect on employee or client work;
+- natural connection to the candidate.
+
+Prefer two well-developed reasons over four disconnected facts. A useful pair is often:
+
+1. one structural franchise mechanism; and
+2. one office-specific market role or programme feature.
+
+Drop a fact that is impressive but cannot answer “why does this matter to the candidate?”
+
+## 11. Draft through causal chains
+
+Use this architecture unless the prompt demands another:
+
+1. **Business motivation:** describe the real feedback loop or work the candidate wants.
+2. **Evidence from experience:** show when that motivation became concrete.
+3. **Why this institution:** develop one or two verified mechanisms.
+4. **Why this office:** connect the local market or client context.
+5. **Why this programme:** explain how its exact design advances the candidate's next step.
+
+For each institution-specific paragraph, use:
+
+> verified fact → operational meaning → personal relevance
+
+Do not merely stack facts. The sentence after every fact must explain its consequence.
+
+## 12. Write naturally
+
+- Preserve the user's voice and strongest original lines when accurate.
+- Prefer concrete verbs: price, hedge, execute, finance, distribute, rotate, test, compare.
+- Avoid ceremonial openings and phrases such as “I am deeply passionate,” “perfectly aligns,” and “prestigious global leader.”
+- Make every paragraph perform a different job.
+- Use numbers selectively and never overload the application with citations or footnotes unless requested.
+- Keep the evidence log outside the submitted answer so every claim remains auditable.
+- Respect the exact word limit; interpret a shared limit conservatively.
+
+## 13. Deliver the result
+
+Unless the user requests only a final draft, provide:
+
+1. **Recommended thesis:** one sentence explaining the differentiated angle.
+2. **Evidence-backed reasons:** two or three concise reasons with source links or citations.
+3. **Fact audit:** identify facts, inferences and any wording narrowed for accuracy.
+4. **Final answer:** submission-ready prose with word count.
+5. **Optional alternative:** only when a genuinely different emphasis would help, such as Sales versus Trading or FX versus Equities.
+
+Never place unsupported claims in the final answer. If evidence conflicts, say so, use the narrower formulation, and explain the competing definitions briefly.
+
+## Final quality gate
+
+Before delivering, verify:
+
+- [ ] The answer covers business, institution and programme rather than only one layer.
+- [ ] At least one reason is specific to the target office or franchise.
+- [ ] Every material claim is supported by a current, credible source.
+- [ ] Facts, inferences and preferences are not blurred.
+- [ ] Each institutional fact has an explicit “so what?”
+- [ ] The personal story demonstrates behavior, not just achievement.
+- [ ] No sentence could be reused unchanged for several competitors.
+- [ ] Comparative or superlative language is directly substantiated.
+- [ ] The final answer fits the word limit and sounds like the candidate.

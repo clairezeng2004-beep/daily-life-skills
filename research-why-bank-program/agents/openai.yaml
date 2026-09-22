@@ -1,0 +1,14 @@
+interface:
+  display_name: Research Why Bank & Program
+  short_description: Research differentiated, evidence-backed application answers
+  default_prompt: Use $research-why-bank-program to research and draft a specific
+    Why this bank and Why this programme answer.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
