@@ -1,0 +1,3 @@
+interface:
+  display_name: "Application Answer Polisher"
+  short_description: "Polish written application answers in a natural, specific style."
