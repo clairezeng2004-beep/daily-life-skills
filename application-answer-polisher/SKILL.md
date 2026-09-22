@@ -16,7 +16,8 @@ Write polished but human English. The answer should feel like a thoughtful candi
 - Keep the tone mature, warm, and credible. Avoid exaggerated enthusiasm, grand claims, and slogan-like endings.
 - Use natural written-answer phrasing, not speech filler. If the user says the answer is for a video interview, make it more conversational.
 - Avoid obvious AI patterns such as repeated contrast frames like "not only..., but also..." or "rather than..., it is...".
-- Avoid dense parallel lists. When several items appear in a row, compress them, group them, or turn one into a sentence with context.
+- Treat dense parallel phrasing as a major AI-sounding pattern. Avoid strings of three or more abstract nouns, repeated verb phrases, or list-like clauses unless the prompt requires them.
+- When several items appear in a row, compress them, group them under one idea, or turn the most important item into a sentence with context. Prefer a short causal or situational sentence over a neat three-part list.
 - Keep transitions light. Prefer "Since", "To address this", "Over time", and "This helped..." only where they genuinely clarify the logic.
 
 ## Content Priorities
@@ -58,5 +59,6 @@ When revising the user's draft:
   - Split overloaded sentences.
   - Turn one list item into a more specific example.
   - Remove low-value items when they do not change the reader's understanding.
+- Before finalizing, scan for comma-heavy sentences and repeated parallel structures. If a sentence reads like "A, B and C" or "to X, Y and Z", keep only the most useful details or rewrite it around the user's judgment, trade-off, or learning.
 - Keep word limits in mind. If the prompt gives a maximum, stay comfortably under it.
 - If the user asks to keep the current style, revise locally instead of rewriting from scratch.
