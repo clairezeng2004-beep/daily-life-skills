@@ -33,6 +33,8 @@ Keep these layers distinct before recombining them:
 
 Do not use one generic paragraph to answer all five.
 
+Define "business area" from the actual JD before drafting. Do not assume it means the office or region. For example, "Wealth - Private Bank, Hong Kong" means the business area is Private Bank/Wealth, with Hong Kong as location context; "Banking - Capital Markets, Hong Kong - APAC" means the business area is Capital Markets, not Sales & Trading or general Investment Banking.
+
 ## 3. Identify the candidate's real motivation
 
 Translate vague interest into a work-level feedback loop. Look for motivations such as:
@@ -107,6 +109,14 @@ Apply these labels strictly:
 
 If the claim is comparative—“only,” “largest,” “leading,” “unique,” “first,” or “strongest”—require direct support and check that the comparison set and date are clear. Where practical, verify material comparative claims using both the institution and the relevant regulator, exchange or independent authority.
 
+Keep sourced facts separate from the answer's interpretation. If a source says Citi serves institutions with cross-border needs, do not convert that into a claim that only Citi can advise cross-border clients. If a source lists global presence, trading floors or currencies, do not imply those figures prove a desk has a proprietary advantage unless the source directly establishes the link.
+
+When the user asks whether evidence is real, provide the exact source basis in plain language:
+
+- what the source directly says;
+- what you inferred from it;
+- which wording was narrowed to avoid overclaiming.
+
 ## 8. Test differentiation
 
 Reject or rewrite any sentence that could be pasted into applications for three peer institutions unchanged.
@@ -123,6 +133,14 @@ Usually generic on their own:
 - fast-paced environment.
 
 Rescue a generic claim by naming the mechanism, evidence and consequence. For example, replace “global network” with the specific businesses that connect, the documented client need they jointly serve, and what the target desk can therefore work on.
+
+Do not stop at "the bank has Capital Markets plus support from other divisions." Most major banks can say this. Explain why this institution's documented client franchise, operating model, office role or programme design changes the actual work. If the same example would work in another region or for another bank, narrow the geography, client type, product context or source-backed mechanism.
+
+For Citi, avoid generic statements such as "Citi is global" unless tied to a documented mechanism. A stronger Citi-specific route is to use its stated focus on institutions with cross-border needs, then explain how that matters to the target business:
+
+- In Capital Markets, financing advice may need to reflect the client's operating context, funding currency, investor base or market window.
+- In Private Bank, the global angle should be about internationally mobile families, cross-border wealth and multi-generation decisions, not just global offices.
+- In Markets/Sales & Trading, the global angle should be about local market access, product context or client risk management, not a broad claim that technology and volatility are changing finance.
 
 Use this counterfactual test:
 
@@ -183,6 +201,9 @@ Do not merely stack facts. The sentence after every fact must explain its conseq
 - Preserve the user's voice and strongest original lines when accurate.
 - Prefer concrete verbs: price, hedge, execute, finance, distribute, rotate, test, compare.
 - Avoid ceremonial openings and phrases such as “I am deeply passionate,” “perfectly aligns,” and “prestigious global leader.”
+- Avoid template contrasts and AI-sounding symmetry, especially “not only..., but also...,” “not limited to...,” “rather than..., it is...,” “more than just...,” and repeated “both...and...” structures.
+- Reduce dense parallel phrasing. If a sentence reads like “A, B and C” or “to X, Y and Z,” keep the most relevant detail or rewrite the sentence around a concrete situation, trade-off or judgment.
+- Prefer one precise example over three broad nouns. Native application writing often sounds more convincing when it explains the setting that makes a fact matter, instead of balancing several abstract concepts.
 - Make every paragraph perform a different job.
 - Use numbers selectively and never overload the application with citations or footnotes unless requested.
 - Keep the evidence log outside the submitted answer so every claim remains auditable.
@@ -200,6 +221,8 @@ Unless the user requests only a final draft, provide:
 
 Never place unsupported claims in the final answer. If evidence conflicts, say so, use the narrower formulation, and explain the competing definitions briefly.
 
+When the user is iterating on wording, preserve the current direction instead of restarting. If the user says an answer feels too generic, diagnose why using the counterfactual test, then replace the weakest generic claim with a source-backed mechanism or a narrower personal reason.
+
 ## Final quality gate
 
 Before delivering, verify:
@@ -211,5 +234,6 @@ Before delivering, verify:
 - [ ] Each institutional fact has an explicit “so what?”
 - [ ] The personal story demonstrates behavior, not just achievement.
 - [ ] No sentence could be reused unchanged for several competitors.
+- [ ] The prose avoids list-like rhythm, heavy parallel nouns and template contrasts.
 - [ ] Comparative or superlative language is directly substantiated.
 - [ ] The final answer fits the word limit and sounds like the candidate.
