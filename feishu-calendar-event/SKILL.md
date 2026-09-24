@@ -11,7 +11,9 @@ Create a Feishu/Lark calendar event for the user from visible appointment detail
 
 ## Time Handling
 
-- Default to the user's current time zone, Asia/Shanghai / GMT+8, for dates and times shown in screenshots unless the user explicitly says the time is in another zone.
+- Default to the user's current computer/session time zone for dates and times shown in screenshots unless the user explicitly says the time is in another zone.
+- Detect the current time zone from the environment or computer state when available. Use that detected value instead of hard-coding Asia/Shanghai / GMT+8.
+- If the time zone cannot be detected, use the user's most recently stated current time zone and briefly mention the assumption before saving.
 - Do not convert screenshot times to Oxford, London, or another local time unless the user asks for that conversion or the source explicitly labels the time zone.
 - If the source and user request conflict about time zone, follow the user's direct request and mention the assumption before saving.
 - For overseas appointments, record the time exactly as the user wants it represented. Only use Feishu's time-zone field when it prevents ambiguity.
