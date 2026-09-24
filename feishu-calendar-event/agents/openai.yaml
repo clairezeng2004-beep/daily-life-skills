@@ -1,0 +1,6 @@
+interface:
+  display_name: "Feishu Calendar Event"
+  short_description: "Create Feishu calendar events from screenshots or notes."
+  default_prompt: "Use $feishu-calendar-event to create a Feishu calendar event from my screenshot or appointment details."
+policy:
+  allow_implicit_invocation: true
