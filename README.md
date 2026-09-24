@@ -11,6 +11,7 @@ Personal Codex skills for everyday admin, writing, inbox cleanup, planning, and 
 - `feishu-calendar-event`: Create Feishu/Lark calendar events from screenshots, email snippets, or short descriptions when the user is already signed in.
 - `feishu-table-filter`: Restore personal Feishu/Lark table filters from a local, untracked configuration file before the user reviews records.
 - `research-why-bank-program`: Research and draft differentiated, evidence-backed “Why this bank/company?” and “Why this programme/role?” answers.
+- `skill-self-iteration`: Turn lessons from using a skill into focused skill updates, validation, and repository uploads.
 
 ## Repository Layout
 
@@ -23,3 +24,4 @@ Each skill lives in its own folder. A folder should contain the skill's `SKILL.m
 - `feishu-calendar-event/`: Feishu/Lark calendar event creation workflow and agent configuration.
 - `feishu-table-filter/`: Feishu/Lark table filtering workflow, agent configuration, and local filter example.
 - `research-why-bank-program/`: Employer and programme research workflow, agent configuration, and icon.
+- `skill-self-iteration/`: Skill maintenance workflow for self-iteration, validation, and upload discipline.

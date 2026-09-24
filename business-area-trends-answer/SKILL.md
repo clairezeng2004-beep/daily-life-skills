@@ -7,6 +7,8 @@ description: Research and draft evidence-backed answers about how a banking or f
 
 Use this skill when the user asks application or interview questions such as "How is this business area changing?", "Why are these changes happening?", "Where are the opportunities and challenges?", or asks for industry dynamics for a specific bank programme. It is designed for finance roles such as Markets/Sales & Trading, Capital Markets, Private Bank/Wealth, Asset Management, Banking, Securities Services and related graduate or summer programmes.
 
+For final English prose, follow the language style of `application-answer-polisher`: polished but human, specific, non-AI-sounding, and faithful to the user's story. This skill owns the trend thesis and evidence logic; `application-answer-polisher` owns the default prose feel. Do not require the user to provide both skill links.
+
 ## Core Standard
 
 The answer should have one clear, defensible thesis about the business area. Do not produce a broad survey of every trend in finance. A strong answer explains:
@@ -90,6 +92,7 @@ If the example would work equally well for another bank or another region, narro
 
 Write like a strong candidate with a real view, not a market report.
 
+- Apply the `application-answer-polisher` style target when drafting the final answer.
 - Use one thesis sentence early.
 - Keep paragraphs short and purposeful.
 - Prefer one concrete example over three broad nouns.

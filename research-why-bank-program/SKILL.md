@@ -7,6 +7,8 @@ description: Research and draft differentiated, evidence-backed answers to “Wh
 
 Build a defensible answer from primary-source research, business mechanisms, programme design, location relevance, and the candidate's real motivation. Optimize for specificity and truth, not the number of facts.
 
+For final English prose, follow the language style of `application-answer-polisher`: polished but human, specific, non-AI-sounding, and faithful to the user's story. This skill owns the research logic; `application-answer-polisher` owns the default prose feel. Do not require the user to provide both skill links.
+
 ## 1. Establish the brief
 
 Extract or request only missing information that materially changes the answer:
@@ -76,7 +78,40 @@ Prefer a causal thesis over a list of attributes:
 
 > institutional asset → business mechanism → work or client consequence → candidate relevance
 
+For "Why this bank/company?", establish the institution's advantage before discussing the candidate's learning. The paragraph should usually move:
+
+> firm capability → competitive or business consequence → why that environment attracts the candidate
+
+Avoid making the core logic:
+
+> firm capability → I want to learn how it works
+
+Learning is a valid final bridge, but it should not be the reason itself. If the paragraph mainly says the internship would let the candidate learn, understand or observe something, it is probably a "Why this opportunity benefits me" answer rather than a "Why this institution" answer.
+
 Examples of acceptable mechanisms include a payments franchise working with Markets on FX needs, or a local desk's role in a market-access scheme improving investors' ability to finance positions. Reverify every example for the current application cycle.
+
+Use an advantage-type framework to sharpen the thesis:
+
+| Advantage type | What to prove | Stronger than |
+|---|---|---|
+| Franchise depth | The institution has a distinctive client base, flow pattern or recurring mandate type. | "It is a leading bank." |
+| Product capability | A product, desk or platform changes what can be priced, hedged, financed or executed. | "It offers many products." |
+| Operating model | Multiple businesses connect in a way that affects client work. | "It is global and collaborative." |
+| Market access | The office or firm participates in a named channel, exchange, infrastructure or regulatory context. | "It has local presence." |
+| Programme design | The programme structure changes exposure, responsibility or decision-making. | "It has strong training." |
+| Research or thought leadership | The firm consistently frames a market debate relevant to the target role. | "It publishes insights." |
+
+Presence is not strength, and strength is not differentiation. A firm being present in a country, product or client segment only proves availability. Strength requires evidence of scale, reputation, repeat activity, infrastructure or stated strategic priority. Differentiation requires a reason this strength matters more for the target role than a similar claim at peer institutions.
+
+For Markets / Sales & Trading roles, research below the firm level. Identify the product or franchise that is actually distinctive, such as Equities, Prime Brokerage, Rates, FX, Credit, Commodities, Electronic Trading or Financing. Ask:
+
+- Is this product genuinely strong at this institution?
+- Is the strength structural, or only a single league-table result, award or transaction?
+- Which client segment, flow type or risk problem does it create access to?
+- What work becomes possible because of this franchise?
+- Why does this product context fit the candidate's demonstrated interests?
+
+Do not write only that the firm has a broad Markets platform. In Markets answers, the strongest reasoning often comes from a product-level mechanism, such as how a commodities franchise shapes inflation, earnings or hedging conversations, or how a prime brokerage franchise changes exposure to hedge fund clients.
 
 ## 6. Use a disciplined source ladder
 
@@ -110,6 +145,8 @@ Apply these labels strictly:
 If the claim is comparative—“only,” “largest,” “leading,” “unique,” “first,” or “strongest”—require direct support and check that the comparison set and date are clear. Where practical, verify material comparative claims using both the institution and the relevant regulator, exchange or independent authority.
 
 Keep sourced facts separate from the answer's interpretation. If a source says Citi serves institutions with cross-border needs, do not convert that into a claim that only Citi can advise cross-border clients. If a source lists global presence, trading floors or currencies, do not imply those figures prove a desk has a proprietary advantage unless the source directly establishes the link.
+
+Use comparative discipline even when the wording is not explicitly superlative. Before drafting, identify the implicit comparison set: peer banks, another office, another programme, another product group or a generic finance role. A reason is stronger when it explains why this institution, office or programme is a better fit than plausible alternatives. If the comparison cannot be supported, narrow the claim to a preference or observed feature.
 
 When the user asks whether evidence is real, provide the exact source basis in plain language:
 
@@ -148,6 +185,12 @@ Use this counterfactual test:
 
 If yes, the sentence is not yet a Why-this-institution reason.
 
+For location claims, use a second counterfactual:
+
+> If the office changed, would the reason still work?
+
+If yes, the sentence is not yet a Why-this-office reason. Rewrite it around the office's client set, product mix, regulatory regime, market hours, regional exposure, sector concentration, exchange access or macro sensitivity. A location is not differentiated merely because the bank has an office there or because the city is a financial centre.
+
 ## 9. Prevent overclaiming
 
 Do not turn proximity into causation or access into informational advantage.
@@ -180,6 +223,14 @@ Prefer two well-developed reasons over four disconnected facts. A useful pair is
 
 Drop a fact that is impressive but cannot answer “why does this matter to the candidate?”
 
+Use this reason-quality hierarchy:
+
+- **A-level reason:** source-backed, institution- or office-specific, tied to a product/franchise or programme mechanism, and connected to the candidate's demonstrated behavior.
+- **B-level reason:** true and relevant, but mostly describes a broad institutional strength unless sharpened through a mechanism or comparison.
+- **C-level reason:** generic prestige, culture, reach, training or curiosity language that could be reused for competitors.
+
+Build the final answer from A-level reasons. Upgrade B-level reasons by adding the specific product, client, office, programme design or operating mechanism. Cut C-level reasons unless the prompt leaves no room for research and the wording is explicitly framed as personal preference.
+
 ## 11. Draft through causal chains
 
 Use this architecture unless the prompt demands another:
@@ -196,7 +247,11 @@ For each institution-specific paragraph, use:
 
 Do not merely stack facts. The sentence after every fact must explain its consequence.
 
+For "Why this institution" paragraphs, do not let the personal relevance arrive too early. First show the bank's advantage and why it matters commercially or operationally; then explain why that environment fits the candidate.
+
 ## 12. Write naturally
+
+Apply the `application-answer-polisher` style target when drafting the final answer.
 
 - Preserve the user's voice and strongest original lines when accurate.
 - Prefer concrete verbs: price, hedge, execute, finance, distribute, rotate, test, compare.
@@ -204,6 +259,8 @@ Do not merely stack facts. The sentence after every fact must explain its conseq
 - Avoid template contrasts and AI-sounding symmetry, especially “not only..., but also...,” “not limited to...,” “rather than..., it is...,” “more than just...,” and repeated “both...and...” structures.
 - Reduce dense parallel phrasing. If a sentence reads like “A, B and C” or “to X, Y and Z,” keep the most relevant detail or rewrite the sentence around a concrete situation, trade-off or judgment.
 - Prefer one precise example over three broad nouns. Native application writing often sounds more convincing when it explains the setting that makes a fact matter, instead of balancing several abstract concepts.
+- Avoid repeated "I want to learn," "I want to understand," "I am curious about," "I would value the opportunity to learn," and "This would allow me to learn" framing. Use them sparingly for programme design or genuine knowledge gaps, not as the main logic of a Why Bank paragraph.
+- When learning language is needed, attach it to a concrete mechanism: what the candidate would learn, from which product/client context, and why that setting is distinctive.
 - Make every paragraph perform a different job.
 - Use numbers selectively and never overload the application with citations or footnotes unless requested.
 - Keep the evidence log outside the submitted answer so every claim remains auditable.
@@ -232,8 +289,13 @@ Before delivering, verify:
 - [ ] Every material claim is supported by a current, credible source.
 - [ ] Facts, inferences and preferences are not blurred.
 - [ ] Each institutional fact has an explicit “so what?”
+- [ ] The institution-specific paragraph establishes firm advantage before candidate learning.
+- [ ] For Markets roles, at least one reason reaches product/franchise level rather than stopping at firm-level platform language.
+- [ ] Presence, strength and differentiation are not treated as the same thing.
+- [ ] Any location reason passes the office counterfactual test.
+- [ ] The selected reasons are A-level, or B-level reasons have been sharpened before inclusion.
 - [ ] The personal story demonstrates behavior, not just achievement.
 - [ ] No sentence could be reused unchanged for several competitors.
-- [ ] The prose avoids list-like rhythm, heavy parallel nouns and template contrasts.
+- [ ] The prose avoids list-like rhythm, heavy parallel nouns, template contrasts and repeated “I want to learn” framing.
 - [ ] Comparative or superlative language is directly substantiated.
 - [ ] The final answer fits the word limit and sounds like the candidate.

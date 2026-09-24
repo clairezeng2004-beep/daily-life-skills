@@ -7,6 +7,8 @@ description: Polish English written application answers, especially interview/ap
 
 Use this skill when helping the user draft or revise English written answers for job applications, video-interview forms, scholarship applications, or similar prompts. It is especially useful when the user wants language that feels natural, grounded, and less like a generic AI response.
 
+This skill is also the canonical language-style guide for the user's other application-answer skills. When another skill researches content, evidence, bank-specific reasons or business trends, use this skill's style target for the final English answer unless the user asks for a different voice.
+
 ## Style Target
 
 Write polished but human English. The answer should feel like a thoughtful candidate wrote it, not like a corporate template.
