@@ -99,3 +99,6 @@ Response pattern:
 3. Provide Gmail filters.
 4. Wait for the user to confirm deletion.
 
+## Self-Iteration Handoff
+
+After the task is settled, if the user's feedback reveals a reusable weakness in this skill's behavior, call `skill-self-iteration` to decide whether and how to update this skill. Use that maintainer skill for feedback triage, generalization, minimal patching, validation, commit, and push. Do not update this skill for one-off wording preferences, case-specific facts, or examples that do not improve future decision logic.

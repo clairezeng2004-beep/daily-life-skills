@@ -118,3 +118,7 @@ Final quality gate:
 - [ ] Opportunities and challenges are connected to the same business mechanism.
 - [ ] The wording would not work unchanged for three peer banks or three different business areas.
 - [ ] The prose avoids heavy parallel phrasing and AI-style contrasts.
+
+## Self-Iteration Handoff
+
+After the task is settled, if the user's feedback reveals a reusable weakness in this skill's behavior, call `skill-self-iteration` to decide whether and how to update this skill. Use that maintainer skill for feedback triage, generalization, minimal patching, validation, commit, and push. Do not update this skill for one-off wording preferences, case-specific facts, or examples that do not improve future decision logic.

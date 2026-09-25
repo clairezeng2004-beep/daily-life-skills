@@ -69,3 +69,7 @@ When revising the user's draft:
 - Before finalizing, scan for comma-heavy sentences and repeated parallel structures. If a sentence reads like "A, B and C" or "to X, Y and Z", keep only the most useful detail or rewrite it around the user's judgment, trade-off, or learning.
 - Keep word limits in mind. If the prompt gives a maximum, stay comfortably under it.
 - If the user asks to keep the current style, revise locally instead of rewriting from scratch.
+
+## Self-Iteration Handoff
+
+After the task is settled, if the user's feedback reveals a reusable weakness in this skill's behavior, call `skill-self-iteration` to decide whether and how to update this skill. Use that maintainer skill for feedback triage, generalization, minimal patching, validation, commit, and push. Do not update this skill for one-off wording preferences, case-specific facts, or examples that do not improve future decision logic.
