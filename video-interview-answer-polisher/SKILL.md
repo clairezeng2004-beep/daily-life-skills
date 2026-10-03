@@ -27,10 +27,12 @@ Write polished spoken English that sounds like a thoughtful candidate speaking t
 - Preserve the user's facts, story, and intended strengths.
 - When the user provides a draft, prefer light editing over rewriting from scratch unless they ask for a full rewrite.
 - Keep the user's original order and wording where it already works.
+- Preserve enough specific detail to make the answer credible. Do not flatten a technical or market answer into generic interview language.
 - Make the answer clear enough to say in one take.
 - Prefer short sentences and light transitions.
 - Avoid long openings. For most answers, make the first sentence direct and under 20 words.
 - Minimize subordinate clauses. Split sentences when a listener may lose the point.
+- Avoid too many parallel nouns or repeated list structures. Several paired or three-part lists in a row can sound AI-written.
 - Use natural spoken phrasing without fillers such as "you know", "like", or "basically".
 - Avoid corporate slogans, exaggerated enthusiasm, and generic claims.
 - Avoid writing that sounds like a memorized essay.
@@ -46,6 +48,7 @@ When the user provides Chinese ideas, translate meaning rather than sentence str
 - If a point is useful but too abstract, express it through what the user did, noticed, changed, or learned.
 - If the draft has too many ideas for the time limit, keep the strongest story thread and remove weaker supporting details.
 - If the user says the previous version changed too much, revise locally: keep their structure, most examples, and core sentences, then improve grammar, rhythm, and naturalness.
+- If the user provides professional terms, keep the terms that carry real meaning. Explain or simplify around them instead of deleting them all.
 
 ## Competency Signposting
 
@@ -93,8 +96,10 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 - Quietly fix grammar, collocations, and tense.
 - Replace stiff phrases with native spoken English.
 - Preserve vivid user details when they help the story stick, such as a client's nervousness, direct feedback, a concrete tool, monthly revenue, or ROI thinking.
+- Preserve useful technical detail when it supports the answer, such as collateral quality, liquidity mismatch, refinancing risk, senior secured loans, covenants, or recovery value. Make the terms speakable rather than removing them.
 - Cut repeated setup and low-value background.
 - Remove dense lists of abstract nouns.
+- Reduce parallel wording. Rewrite strings like "collateral opacity, liquidity mismatches, and over-concentration" into one main point plus a sentence of explanation, unless the prompt explicitly asks for a list.
 - Use capability words sparingly. Prefer "took the lead", "managed client communication", "built trust", "paid attention to small details", and "thought about return on investment" over a plain list of strengths.
 - Avoid template contrasts such as "not only..., but also...", "rather than...", "more than just...", "both...and...", and "instead of simply..." unless the user explicitly asks to preserve them.
 - Before finalizing, read the answer mentally as speech. If it would be hard to say naturally, shorten or split the sentence.
