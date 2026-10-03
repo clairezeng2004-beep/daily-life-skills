@@ -33,6 +33,7 @@ Write polished spoken English that sounds like a thoughtful candidate speaking t
 - Avoid long openings. For most answers, make the first sentence direct and under 20 words.
 - Minimize subordinate clauses. Split sentences when a listener may lose the point.
 - Avoid too many parallel nouns or repeated list structures. Several paired or three-part lists in a row can sound AI-written.
+- Accept and preserve conditional phrasing such as "I would", "my first step would be", and "I would focus on" for hypothetical, market-view, or plan-of-action prompts. It sounds natural and appropriately cautious in those answers.
 - Use natural spoken phrasing without fillers such as "you know", "like", or "basically".
 - Avoid corporate slogans, exaggerated enthusiasm, and generic claims.
 - Avoid writing that sounds like a memorized essay.
@@ -101,6 +102,7 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 - Remove dense lists of abstract nouns.
 - Reduce parallel wording. Rewrite strings like "collateral opacity, liquidity mismatches, and over-concentration" into one main point plus a sentence of explanation, unless the prompt explicitly asks for a list.
 - Use capability words sparingly. Prefer "took the lead", "managed client communication", "built trust", "paid attention to small details", and "thought about return on investment" over a plain list of strengths.
+- Do not over-edit away repeated "would" in hypothetical answers. Vary sentence rhythm where useful, but keep "would" when it makes the answer sound measured rather than overconfident.
 - Avoid template contrasts such as "not only..., but also...", "rather than...", "more than just...", "both...and...", and "instead of simply..." unless the user explicitly asks to preserve them.
 - Before finalizing, read the answer mentally as speech. If it would be hard to say naturally, shorten or split the sentence.
 
