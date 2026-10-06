@@ -37,18 +37,14 @@ If login, password, QR scan, OTP, or SSO is required, hand that step to the user
 5. Remove default video meeting links when the event is an in-person appointment and the source does not mention an online meeting.
 6. Avoid adding guests, creating meeting groups, binding groups, uploading attachments, or changing calendar permissions unless the user explicitly asks.
 7. Verify the visible form: title, date, start/end time, time zone if shown, location, calendar, and repeat setting.
-8. Stop before clicking Save/Create and ask for confirmation, because saving creates or modifies a cloud calendar event.
-9. After the user confirms, save the event and verify it appears on the calendar or that Feishu shows a success state.
+8. When the user asks to create or update the event, treat that request as authorization to click Save/Create after verifying the form. Do not ask for a second confirmation merely because the event is saved to a cloud calendar. Ask only when essential event details remain ambiguous or the action goes beyond the user’s request.
+9. Save the event and verify it appears on the calendar or that Feishu shows a success state. If a save attempt has an uncertain result, check the calendar before retrying to avoid duplicate events.
 
-## Confirmation Wording
+## Completion Wording
 
-Before saving, summarize the exact event:
+After saving, briefly report the title, date, time, and location, including any assumed end time. For multiple events, give one concise summary after verifying all saves.
 
-```text
-我已经填好了，保存前确认一下：标题 ...；时间 ...；地点 ...；没有添加参与者/已移除视频会议。确认要我点击“保存”吗？
-```
-
-If the user says they have already saved it themselves, do not click anything else. Acknowledge and close out.
+If the user says they have already saved an event themselves, do not save it again. Acknowledge and close out.
 
 ## Fallback
 
