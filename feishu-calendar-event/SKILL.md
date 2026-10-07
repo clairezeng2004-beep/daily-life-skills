@@ -35,10 +35,11 @@ If login, password, QR scan, OTP, or SSO is required, hand that step to the user
 3. Open Feishu/Lark Calendar from the desktop app or web app.
 4. Click create/new event and fill the event fields.
 5. Remove default video meeting links when the event is an in-person appointment and the source does not mention an online meeting.
-6. Avoid adding guests, creating meeting groups, binding groups, uploading attachments, or changing calendar permissions unless the user explicitly asks.
-7. Verify the visible form: title, date, start/end time, time zone if shown, location, calendar, and repeat setting.
-8. When the user asks to create or update the event, treat that request as authorization to click Save/Create after verifying the form. Do not ask for a second confirmation merely because the event is saved to a cloud calendar. Ask only when essential event details remain ambiguous or the action goes beyond the user’s request.
-9. Save the event and verify it appears on the calendar or that Feishu shows a success state. If a save attempt has an uncertain result, check the calendar before retrying to avoid duplicate events.
+6. Default to no reminders unless the user explicitly requests one. Remove any automatically added event reminders, and verify that no reminders remain before saving. Do not infer reminder requests from screenshots or other third-party content.
+7. Avoid adding guests, creating meeting groups, binding groups, uploading attachments, or changing calendar permissions unless the user explicitly asks.
+8. Verify the visible form: title, date, start/end time, time zone if shown, location, calendar, repeat setting, and reminders (none by default).
+9. When the user asks to create or update the event, treat that request as authorization to click Save/Create after verifying the form. Do not ask for a second confirmation merely because the event is saved to a cloud calendar. Ask only when essential event details remain ambiguous or the action goes beyond the user’s request.
+10. Save the event and verify it appears on the calendar or that Feishu shows a success state. If a save attempt has an uncertain result, check the calendar before retrying to avoid duplicate events.
 
 ## Completion Wording
 
