@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Pitch Builder"
+  short_description: "Build natural, evidence-grounded stock and news pitches."
+  default_prompt: "Use $market-pitch-builder to turn this report or news article into a confident, natural English interview pitch, preserving source evidence and marking missing data."
