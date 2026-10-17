@@ -35,6 +35,7 @@ Write polished spoken English that sounds like a thoughtful candidate speaking t
 - Avoid too many parallel nouns or repeated list structures. Several paired or three-part lists in a row can sound AI-written.
 - Accept and preserve conditional phrasing such as "I would", "my first step would be", and "I would focus on" for hypothetical, market-view, or plan-of-action prompts. It sounds natural and appropriately cautious in those answers.
 - Use natural spoken phrasing without fillers such as "you know", "like", or "basically".
+- In English answers, use straight ASCII quotation marks (`"` and `'`) and apostrophes, including contractions such as `I'll` and `I'd`. Do not use curly quotation marks or curly apostrophes (`“ ” ‘ ’`) or Chinese quotation marks (`「 」 『 』`).
 - Avoid corporate slogans, exaggerated enthusiasm, and generic claims.
 - Avoid writing that sounds like a memorized essay.
 - Do not over-connect every answer to the target role. Add a role connection only when it feels natural or the prompt asks for it.
