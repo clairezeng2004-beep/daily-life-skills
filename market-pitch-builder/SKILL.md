@@ -69,14 +69,14 @@ For a single-name pitch, use a competitor only when a brief comparison materiall
 
 ## News pitch structure
 
-Use an event-to-market chain rather than repackaging the stock template:
+Use the following four-part structure:
 
-1. What happened, when, and what was actually new.
-2. Why it matters: the transmission to earnings, rates, currencies, flows, or risk appetite, choosing the relevant channel.
-3. The candidate's view: likely beneficiaries or losers and the time horizon. Describe a consensus disagreement only if expectations are evidenced.
-4. What could move markets next and what would invalidate the view.
+1. **Factual — what happened:** State the key fact or event in one sentence, including timing and what was new where relevant.
+2. **Why it happened:** Explain 2–3 distinct reasons behind the event or market move. Keep the causal explanations separate and distinguish supported drivers from interpretation; do not invent reasons to fill the count.
+3. **Thesis — impact across different asset classes:** Walk through how the event affects different markets, including equities and gold where relevant. Explain the transmission mechanism for each asset class. A natural spoken transition is: "Next, let me walk you through the impact on different markets."
+4. **My view:** Give a clear first-person judgment on whether the trend or market reaction will continue, whether the reaction is justified, and why. Explain the conditions supporting the view and what would invalidate it.
 
-Separate observed price reactions from expected future reactions. Distinguish announcement date from effective date. Do not force a trade recommendation into a request for news interpretation alone.
+Separate observed price reactions from expected future reactions. Distinguish announcement date from effective date. Describe a consensus disagreement only if expectations are evidenced. Do not force a trade recommendation into a request for news interpretation alone.
 
 ## Spoken style and delivery
 
