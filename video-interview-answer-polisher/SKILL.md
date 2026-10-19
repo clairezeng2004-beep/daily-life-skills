@@ -32,17 +32,17 @@ Conversational delivery and the absence of formulaic AI phrasing are acceptance 
 
 ## Spoken Sentence Standard
 
-- Aim for most sentences to be 8-16 words. Review every sentence over 20 words and usually split or simplify it. These are editing guides, not a reason to make speech choppy or delete useful detail.
-- Give each sentence one main idea. Put an explanation or consequence in the next sentence when it adds another clause.
-- Prefer direct personal language such as "I like", "I enjoy", and "I'd like to" when it fits the user's voice. Do not replace natural wording with a formal motivational introduction just to sound polished.
+- Aim for most sentences to be 10-20 words. Review sentences over 25 words for unnecessary complexity. Use these as editing guides: keep a reason and its explanation together when they form one clear spoken thought. Do not mechanically split the answer into short statements.
+- Give each sentence one main idea, with a short explanation when useful. A simple because, how, or whether clause can make professional spoken English flow better than several disconnected statements.
+- Use natural but professional interview English. Prefer precise verbs such as "develop", "assess", "understand", and "discuss" where they carry meaning. Avoid repeatedly opening sentences with "I like" or "I'd like to", and avoid casual phrasing such as "the mix" or "getting to know people" when a more precise phrase fits. Do not replace personal motivation with corporate abstractions.
 - Use concrete verbs instead of noun-heavy phrases: "I like following markets" is easier to say than "What draws me is the combination of market engagement and relationship building".
 - Shortening alone is insufficient. Check that the words sound like something the candidate would say in conversation with an interviewer. Avoid turning every sentence into a formal declaration or a slogan.
-- Preserve natural wording while keeping a short opening that names the main reason or keywords. End with one short sentence that brings those keywords back to the motivation or lesson. Short sentences should not remove the answer's overall structure.
+- Keep the opening to one concise sentence naming one or two specific keyword phrases, such as "market judgment" and "client trust". Develop the reasons in the body, then return to those phrases in a concise closing. The summary should communicate a direction without previewing every supporting detail.
 - Keep related short sentences together in natural paragraphs. Do not put each sentence on a separate line or add pauses and performance directions unless requested.
 
-Example of the intended revision:
-- Too written: "That constant feedback keeps me engaged, because I have to question my assumptions and decide when to hold my view or adjust it."
-- Spoken: "I like getting that constant feedback. It makes me question my assumptions. Sometimes I stick with my view; sometimes I change it."
+Example of the intended balance:
+- Too fragmented: "I like getting feedback. It makes me question my assumptions. Sometimes I change my view."
+- Professional and speakable: "That feedback encourages me to question my assumptions and decide whether my view still holds."
 
 ## Output Style
 
@@ -107,9 +107,9 @@ Avoid:
 
 Default to point–support–takeaway (总分总), unless the user requests another format or the question clearly calls for something else. Keep the opening and closing brief and spoken; sentence simplicity and overall structure must work together:
 
-1. **Point:** Answer immediately with one short sentence naming the main theme or one or two memorable keywords. For two reasons, give a brief spoken roadmap so the listener knows what to listen for.
+1. **Point:** Open with one concise sentence built around one or two specific keyword phrases. Use meaningful phrases such as "market judgment" and "client trust", rather than broad topic labels such as "markets and clients". Leave explanations and examples for the body.
 2. **Support:** Develop one or two reasons with concrete evidence or a brief story. Explain why each example matters.
-3. **Takeaway:** Close with one short sentence that echoes the opening keywords and connects them to the motivation, implication, or lesson. Keep the connection concrete; avoid a slogan or a word-for-word recap.
+3. **Takeaway:** Close with one concise sentence connecting the opening keyword phrases to the role or lesson. Keep the implication clear without restating the supporting details or introducing a new reason.
 
 For behavioral questions, place situation, action and result inside the supporting story. Open with the behavior being asked about and close with what the experience showed or taught. Do not display STAR or structure labels in the finished script. Do not force a role connection into unrelated personal questions.
 
@@ -127,6 +127,7 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 ## Editing Rules
 
 - Quietly fix grammar, collocations, and tense.
+- Prefer an explicit subject and concrete action when a sentence sounds abstract or written. An -ing subject is not inherently AI-like; revise it when it packages an abstract benefit, especially with phrases such as "bring relevant ideas to our discussions". For example, "I'd want to understand what matters to each client, so I could share useful market ideas" is more direct than "Understanding clients' priorities would help me bring relevant ideas to our discussions". Keep natural -ing openings when they are clear and easy to say; do not impose a blanket ban.
 - Replace stiff phrases with native spoken English.
 - Preserve vivid user details when they help the story stick, such as a client's nervousness, direct feedback, a concrete tool, monthly revenue, or ROI thinking.
 - Preserve useful technical detail when it supports the answer, such as collateral quality, liquidity mismatch, refinancing risk, senior secured loans, covenants, or recovery value. Make the terms speakable rather than removing them.
@@ -134,7 +135,7 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 - Remove dense lists of abstract nouns.
 - Reduce parallel wording. Rewrite strings like "collateral opacity, liquidity mismatches, and over-concentration" into one main point plus a sentence of explanation, unless the prompt explicitly asks for a list.
 - Use capability words sparingly. Prefer "took the lead", "managed client communication", "built trust", "paid attention to small details", and "thought about return on investment" over a plain list of strengths.
-- Do not over-edit away repeated "would" in hypothetical answers. Vary sentence rhythm where useful, but keep "would" when it makes the answer sound measured rather than overconfident.
+- Preserve "would" where a hypothetical action needs it, but avoid a run of sentences beginning with "I'd" or "I would". This user prefers varied openings: use the role, a specific responsibility, a client conversation, or a personal motivation as the subject when natural ("The role involves...", "Those conversations...", "What appeals to me..."). Keep necessary first-person ownership and conditional meaning; do not turn a proposed contribution into a claim of past experience or guaranteed access to senior clients.
 - Avoid template contrasts such as "not only..., but also...", "rather than...", "more than just...", "both...and...", and "instead of simply..." unless the user explicitly asks to preserve them.
 - Before finalizing, read the answer mentally as speech. If it would be hard to say naturally, shorten or split the sentence.
 
@@ -152,9 +153,11 @@ When the user only asks for the answer, keep extra commentary minimal.
 
 Before returning the answer:
 
-- Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 20 words; check that most sentences are around 8-16 words and carry one main idea.
+- Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 25 words for complexity. Check that the body develops each reason in connected, professional spoken English, without a string of short "I like" statements.
 - Compare with the original draft. Remove any newly added formal framing that makes a simple personal point harder to say. Short sentences must still sound natural together.
-- Check for a brief keyword-led opening, concrete support, and a short closing that returns to those keywords. A distracted listener should be able to recover the main point from the opening or closing. Do not drop this structure merely to shorten sentences.
+- Scan sentence openings for repeated "I'd" / "I would". Vary them naturally while preserving the candidate's motivation, contribution, and appropriate hypothetical tone.
+- Check abstract subjects and vague benefit phrases. Where useful, name who acts and what they do; judge -ing openings by clarity and spoken naturalness, not their grammatical form.
+- Check for a concise keyword-led opening and closing, with fuller explanation reserved for the body. A distracted listener should recover the main reasons from the summary. Check the balance: neither a long introductory explanation nor an overly casual, fragmented body.
 - Check that a listener can identify the main keywords after hearing the answer once without seeing formatting.
 - Remove abstract noun clusters, mechanical transitions, generic praise, and unnecessary technical detail while preserving the strongest example.
 - Check the actual word count and speaking time. Cut weaker points instead of squeezing them into dense sentences.
