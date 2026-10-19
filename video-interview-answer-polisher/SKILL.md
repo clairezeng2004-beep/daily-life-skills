@@ -30,6 +30,20 @@ Conversational delivery and the absence of formulaic AI phrasing are acceptance 
 - Keep evidence precise without reciting full report titles or stacking rankings. Prefer one memorable example with a short attribution.
 - Never invent experiences or exaggerate evidence to create an engaging hook.
 
+## Spoken Sentence Standard
+
+- Aim for most sentences to be 8-16 words. Review every sentence over 20 words and usually split or simplify it. These are editing guides, not a reason to make speech choppy or delete useful detail.
+- Give each sentence one main idea. Put an explanation or consequence in the next sentence when it adds another clause.
+- Prefer direct personal language such as "I like", "I enjoy", and "I'd like to" when it fits the user's voice. Do not replace natural wording with a formal motivational introduction just to sound polished.
+- Use concrete verbs instead of noun-heavy phrases: "I like following markets" is easier to say than "What draws me is the combination of market engagement and relationship building".
+- Shortening alone is insufficient. Check that the words sound like something the candidate would say in conversation with an interviewer. Avoid turning every sentence into a formal declaration or a slogan.
+- Preserve natural wording while keeping a short opening that names the main reason or keywords. End with one short sentence that brings those keywords back to the motivation or lesson. Short sentences should not remove the answer's overall structure.
+- Keep related short sentences together in natural paragraphs. Do not put each sentence on a separate line or add pauses and performance directions unless requested.
+
+Example of the intended revision:
+- Too written: "That constant feedback keeps me engaged, because I have to question my assumptions and decide when to hold my view or adjust it."
+- Spoken: "I like getting that constant feedback. It makes me question my assumptions. Sometimes I stick with my view; sometimes I change it."
+
 ## Output Style
 
 Write polished spoken English that sounds like a thoughtful candidate speaking to a camera.
@@ -91,11 +105,11 @@ Avoid:
 
 ## Structure
 
-Default to point–support–takeaway (总分总), unless the user requests another format or the question clearly calls for something else:
+Default to point–support–takeaway (总分总), unless the user requests another format or the question clearly calls for something else. Keep the opening and closing brief and spoken; sentence simplicity and overall structure must work together:
 
-1. **Point:** Answer immediately and name the main theme. For two reasons, offer a short spoken roadmap.
+1. **Point:** Answer immediately with one short sentence naming the main theme or one or two memorable keywords. For two reasons, give a brief spoken roadmap so the listener knows what to listen for.
 2. **Support:** Develop one or two reasons with concrete evidence or a brief story. Explain why each example matters.
-3. **Takeaway:** Return to the main point with one short sentence on its implication, motivation, or lesson. Add meaning instead of repeating the opening verbatim.
+3. **Takeaway:** Close with one short sentence that echoes the opening keywords and connects them to the motivation, implication, or lesson. Keep the connection concrete; avoid a slogan or a word-for-word recap.
 
 For behavioral questions, place situation, action and result inside the supporting story. Open with the behavior being asked about and close with what the experience showed or taught. Do not display STAR or structure labels in the finished script. Do not force a role connection into unrelated personal questions.
 
@@ -138,8 +152,9 @@ When the user only asks for the answer, keep extra commentary minimal.
 
 Before returning the answer:
 
-- Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template.
-- Check for a clear opening point, concrete support, and a useful closing takeaway where appropriate to the question.
+- Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 20 words; check that most sentences are around 8-16 words and carry one main idea.
+- Compare with the original draft. Remove any newly added formal framing that makes a simple personal point harder to say. Short sentences must still sound natural together.
+- Check for a brief keyword-led opening, concrete support, and a short closing that returns to those keywords. A distracted listener should be able to recover the main point from the opening or closing. Do not drop this structure merely to shorten sentences.
 - Check that a listener can identify the main keywords after hearing the answer once without seeing formatting.
 - Remove abstract noun clusters, mechanical transitions, generic praise, and unnecessary technical detail while preserving the strongest example.
 - Check the actual word count and speaking time. Cut weaker points instead of squeezing them into dense sentences.
