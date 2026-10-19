@@ -5,7 +5,7 @@ description: Turn market articles, research reports, or news into evidence-groun
 
 # Market Pitch Builder
 
-Build an interview-ready market view from third-party research without inventing missing evidence. Support stock pitches and news pitches, including long-only, short-only, and explicitly requested relative-value trades. This skill owns investment logic and source fidelity; it is self-contained and does not require another writing skill.
+Build an interview-ready market view from third-party research without inventing missing evidence. Support stock pitches and news pitches, including long-only, short-only, and explicitly requested relative-value trades. This skill owns investment logic and source fidelity. Use the sibling [video-interview-answer-polisher](../video-interview-answer-polisher/SKILL.md) skill for the final spoken-language polish.
 
 ## Establish the requested scope
 
@@ -14,7 +14,7 @@ Use the conversation to identify the company or event, direction, interview cont
 - Default to natural spoken English for an interview pitch; use the user's requested language otherwise.
 - If asked for a long pitch, centre the chosen company. A potential hedge mentioned earlier does not authorize continued long/short framing.
 - If the user supplies a screenshot framework, follow its useful structure, treating its examples as examples rather than company facts.
-- When asked for more material to select from, produce an expanded draft and optional supporting material. When later asked for about 300 words, deliver about 300 words rather than another long explanation.
+- Keep each final English pitch at or below 250 words, including any headings within the pitch; follow a shorter requested limit when supplied. Put optional research notes, citations, and any requested Chinese explanation outside the pitch. Expand supporting material only when requested.
 - Tailor an IED/Sales and Trading pitch toward a clear view, why the price could change, timing, and risk. Do not force bank slogans or a generic role connection into it.
 
 ## Read the evidence before drafting
@@ -80,10 +80,12 @@ Separate observed price reactions from expected future reactions. Distinguish an
 
 ## Spoken style and delivery
 
+Before delivering a final pitch, read and apply [video-interview-answer-polisher](../video-interview-answer-polisher/SKILL.md) from this repository. Use its spoken-language editing and final quality check to make the English clear, natural, and easy to follow on first hearing. Preserve this skill's stock/news pitch structure, market reasoning, source distinctions, and evidence constraints; do not replace them with the polishing skill's default point-support-takeaway structure or behavioral interview framing. Language polish must not add claims or turn a conditional forecast into a fact.
+
 - Write as a thoughtful candidate speaking naturally, with short sentences and concrete causal explanations.
 - Avoid repeated "I would", formal essay language, generic enthusiasm, excessive jargon, and strings of three abstract nouns.
 - Use numbers selectively; each should strengthen the argument and be explainable if challenged.
-- A 300-word answer may take roughly 2.5–3.5 minutes depending on pace. Do not promise an exact duration; respect an explicit word limit over a default timing estimate.
+- Count the words after polishing and revise until the final English pitch is no more than 250 words. Cut weaker points and repetition rather than compressing the answer into dense sentences. Do not promise an exact speaking duration.
 - Keep citations outside the reusable speech. Where writing blocks are supported, place only the pitch itself in one block.
 - For a final-draft-only request, return the speech with at most a brief note about remaining placeholders. Do not append a research checklist or unsolicited long/short discussion.
 
