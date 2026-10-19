@@ -71,10 +71,10 @@ For a single-name pitch, use a competitor only when a brief comparison materiall
 
 Use the following four-part structure:
 
-1. **Factual — what happened:** State the key fact or event in one sentence, including timing and what was new where relevant.
-2. **Why it happened:** Explain 2–3 distinct reasons behind the event or market move. Keep the causal explanations separate and distinguish supported drivers from interpretation; do not invent reasons to fill the count.
-3. **Thesis — impact across different asset classes:** Walk through how the event affects different markets, including equities and gold where relevant. Explain the transmission mechanism for each asset class. A natural spoken transition is: "Next, let me walk you through the impact on different markets."
-4. **My view:** Give a clear first-person judgment on whether the trend or market reaction will continue, whether the reaction is justified, and why. Explain the conditions supporting the view and what would invalidate it.
+1. **Factual — what happened:** State the key fact or event directly in one sentence, including timing and what was new where relevant. Avoid openings such as "UBS reported" or "the article says"; keep source attribution outside the spoken pitch unless needed to identify an allegation or disputed claim.
+2. **Why it happened:** Explain 2–3 distinct underlying causes, such as conflicting incentives, weak enforcement, or dependence, rather than retelling the sequence of events. Give each cause a short, specific label and usually one concise explanatory sentence. Name the parties involved; for trust or disagreement, specify whose trust in whom changed or which parties disagree. Distinguish supported drivers from interpretation, and do not invent motives or reasons to fill the count.
+3. **Thesis — impact across different asset classes:** State a clear directional expectation for the relevant markets, including equities and gold where relevant, and explain each in a short causal chain from the event to supply, demand, costs, or earnings and then to pricing. Separate assets or products when their mechanisms differ. Express a reasoned base case with necessary conditions, without making uncertainty the entire conclusion. A natural spoken transition is: "Next, let me walk you through the impact on different markets."
+4. **My view — what happens next:** Predict how the underlying event itself is likely to develop over a stated horizon: for example, escalation versus negotiation, policy implementation, or changes in the parties' behavior. Explain why that path is most likely and what development would change the judgment. Where relevant, assess whether the current market reaction is justified. Keep asset forecasts in Impact; do not repeat them here as the main view.
 
 Separate observed price reactions from expected future reactions. Distinguish announcement date from effective date. Describe a consensus disagreement only if expectations are evidenced. Do not force a trade recommendation into a request for news interpretation alone.
 
@@ -84,6 +84,9 @@ Before delivering a final pitch, read and apply [video-interview-answer-polisher
 
 - Write as a thoughtful candidate speaking naturally, with short sentences and concrete causal explanations.
 - Avoid repeated "I would", formal essay language, generic enthusiasm, excessive jargon, and strings of three abstract nouns.
+- Prefer direct, familiar wording that a listener can understand once. Replace opaque market expressions with a concrete trigger and consequence; for example, "prices could rise sharply if production is disrupted" is clearer than "prices remain vulnerable to upward spikes". Preserve the distinction between a possible spike and a sustained trend.
+- Explain unfamiliar sector or market terms briefly in plain language, using a short example only when helpful. Cut low-priority assets or detail before adding jargon or longer explanations.
+- Make scope precise: name the institution or country providing support, distinguish loans from grants and approved funding from disbursements, and do not equate financial aid with supplier orders. Keep established facts separate from forecasts about future support.
 - Use numbers selectively; each should strengthen the argument and be explainable if challenged.
 - Count the words after polishing and revise until the final English pitch is no more than 250 words. Cut weaker points and repetition rather than compressing the answer into dense sentences. Do not promise an exact speaking duration.
 - Keep citations outside the reusable speech. Where writing blocks are supported, place only the pitch itself in one block.
