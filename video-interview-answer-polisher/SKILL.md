@@ -20,6 +20,16 @@ Default to 80-120 words per minute unless the user gives a different pacing pref
 
 Stay slightly under the upper limit when the answer includes names, technical terms, numbers, or phrases the user may want to say carefully.
 
+## Core Delivery Requirements
+
+Conversational delivery and the absence of formulaic AI phrasing are acceptance criteria, not optional polish. Write for a listener who hears the answer once.
+
+- Use everyday verbs, natural contractions, and sentences that fit a comfortable breath. Preserve useful technical terms and explain their practical meaning simply.
+- Prefer "What draws me to MS is..." to "These capabilities underpin my interest...". Describe what a client or candidate can actually do.
+- Vary sentence length and openings. Avoid corporate abstractions, polished symmetry, repeated three-part lists, and slogan-like endings.
+- Keep evidence precise without reciting full report titles or stacking rankings. Prefer one memorable example with a short attribution.
+- Never invent experiences or exaggerate evidence to create an engaging hook.
+
 ## Output Style
 
 Write polished spoken English that sounds like a thoughtful candidate speaking to a camera.
@@ -81,15 +91,22 @@ Avoid:
 
 ## Structure
 
-For most answers, use a simple spoken arc:
+Default to point–support–takeaway (总分总), unless the user requests another format or the question clearly calls for something else:
 
-1. Direct answer to the prompt.
-2. Brief context.
-3. One concrete challenge or action.
-4. Result or learning.
-5. Optional role connection if it sounds natural.
+1. **Point:** Answer immediately and name the main theme. For two reasons, offer a short spoken roadmap.
+2. **Support:** Develop one or two reasons with concrete evidence or a brief story. Explain why each example matters.
+3. **Takeaway:** Return to the main point with one short sentence on its implication, motivation, or lesson. Add meaning instead of repeating the opening verbatim.
 
-Do not force STAR labels into the answer. The final prose should read as a single answer, not as an outline.
+For behavioral questions, place situation, action and result inside the supporting story. Open with the behavior being asked about and close with what the experience showed or taught. Do not display STAR or structure labels in the finished script. Do not force a role connection into unrelated personal questions.
+
+## Listener Signposts and Keywords
+
+Help the listener follow the answer and remember its key ideas:
+
+- Choose one or two concrete keywords, such as "stock borrowing", "execution", or "client trust". Introduce them early, develop each with evidence, and echo the main idea naturally in the takeaway.
+- Use short audible cues at meaningful transitions: "The first is...", "The other is...", "One example is...", "What matters here is...", or "That's why...". Use only those needed; avoid a fixed sequence in every answer.
+- Keywords should organize real content. Do not stack competency buzzwords, manufacture dramatic hooks, or make unsupported claims to attract attention.
+- Keep signposts within natural sentences. Bold formatting and numbered headings cannot substitute for cues a listener can hear.
 
 For "Tell us something about yourself that is not on your resume", focus on a memorable personal story first. A concise leadership signal in the opening is useful, such as "I took the lead in..." or "I helped build...". Mention transferable strengths, but avoid ending with an overly formal job pitch unless the user asks for that connection.
 
@@ -116,3 +133,13 @@ Usually provide:
 - A short explanation in Chinese of what was strengthened, when useful.
 
 When the user only asks for the answer, keep extra commentary minimal.
+
+## Final Spoken Quality Check
+
+Before returning the answer:
+
+- Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template.
+- Check for a clear opening point, concrete support, and a useful closing takeaway where appropriate to the question.
+- Check that a listener can identify the main keywords after hearing the answer once without seeing formatting.
+- Remove abstract noun clusters, mechanical transitions, generic praise, and unnecessary technical detail while preserving the strongest example.
+- Check the actual word count and speaking time. Cut weaker points instead of squeezing them into dense sentences.
