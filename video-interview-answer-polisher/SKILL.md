@@ -78,7 +78,7 @@ When the user provides Chinese ideas, translate meaning rather than sentence str
 
 ## Competency Signposting
 
-For behavioral interview answers, actively but naturally show desirable qualities through verbs, choices, and concrete situations. Useful qualities include:
+For every behavioral interview answer, explicitly name one or two relevant competencies and demonstrate them through concrete actions. Prioritize memorable wording such as "collaborated", "took ownership", and "leadership" when supported by the user's story. Do not leave the competency entirely implicit or force all three into every answer. Useful qualities include:
 
 - leadership
 - ownership
@@ -94,6 +94,9 @@ For behavioral interview answers, actively but naturally show desirable qualitie
 Do not simply stack these words in a list. Anchor them in the user's actions.
 
 Good patterns:
+- "First, I took ownership of the project timeline and agreed on deadlines with the team."
+- "Second, I collaborated with two teammates to resolve the disagreement."
+- "That experience strengthened my leadership through clearer decisions and regular follow-up."
 - "I took the lead in building a portrait photography studio at university."
 - "I led the weekly planning and explained the shoot to each client in advance."
 - "Some clients felt nervous in front of the camera. I learned to build trust quickly."
@@ -105,10 +108,10 @@ Avoid:
 
 ## Structure
 
-Default to point–support–takeaway (总分总), unless the user requests another format or the question clearly calls for something else. Keep the opening and closing brief and spoken; sentence simplicity and overall structure must work together:
+Every finished answer must have a clear, audible structure. Structure is mandatory, even for light edits to an existing draft. Use point–support–takeaway (总分总) by default; a user-requested format or a question-specific format must still have a clear opening, ordered development, and closing. Keep the opening and closing brief and spoken; sentence simplicity and overall structure must work together:
 
 1. **Point:** Open with one concise sentence built around one or two specific keyword phrases. Use meaningful phrases such as "market judgment" and "client trust", rather than broad topic labels such as "markets and clients". Leave explanations and examples for the body.
-2. **Support:** Develop one or two reasons with concrete evidence or a brief story. Explain why each example matters.
+2. **Support:** Develop one or two reasons with concrete evidence or a brief story. Mark distinct reasons or action steps with "First" and "Second", or equivalent spoken transitions. Explain why each example matters.
 3. **Takeaway:** Close with one concise sentence connecting the opening keyword phrases to the role or lesson. Keep the implication clear without restating the supporting details or introducing a new reason.
 
 For behavioral questions, place situation, action and result inside the supporting story. Open with the behavior being asked about and close with what the experience showed or taught. Do not display STAR or structure labels in the finished script. Do not force a role connection into unrelated personal questions.
@@ -118,7 +121,7 @@ For behavioral questions, place situation, action and result inside the supporti
 Help the listener follow the answer and remember its key ideas:
 
 - Choose one or two concrete keywords, such as "stock borrowing", "execution", or "client trust". Introduce them early, develop each with evidence, and echo the main idea naturally in the takeaway.
-- Use short audible cues at meaningful transitions: "First...", "Second...", "One example is...", "My main point is...", or "As a result...". Use only those needed; avoid a fixed sequence in every answer.
+- Use audible signposts throughout the answer to regain the listener's attention and make the structure easy to follow. Prefer "First..." and "Second..." for distinct reasons or action steps. For a chronological story, use alternatives such as "At the start...", "Next...", "The main challenge was...", "To address this...", and "As a result...". Mark the main shifts in the answer; do not add a connector to every sentence or invent a second point just to fit a numbered sequence.
 - Keywords should organize real content. Do not stack competency buzzwords, manufacture dramatic hooks, or make unsupported claims to attract attention.
 - Keep signposts within natural sentences. Bold formatting and numbered headings cannot substitute for cues a listener can hear.
 
@@ -134,7 +137,7 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 - Cut repeated setup and low-value background.
 - Remove dense lists of abstract nouns.
 - Reduce parallel wording. Rewrite strings like "collateral opacity, liquidity mismatches, and over-concentration" into one main point plus a sentence of explanation, unless the prompt explicitly asks for a list.
-- Use capability words sparingly. Prefer "took the lead", "managed client communication", "built trust", "paid attention to small details", and "thought about return on investment" over a plain list of strengths.
+- Make relevant competency keywords explicit: use action phrases such as "collaborated", "took ownership", and "took the lead", or name "leadership" in the opening or takeaway. Support each keyword with a specific action from the user's story. Avoid unsupported labels and repeated lists of strengths.
 - Preserve "would" where a hypothetical action needs it, but avoid a run of sentences beginning with "I'd" or "I would". This user prefers varied openings: use the role, a specific responsibility, a client conversation, or a personal motivation as the subject when natural ("The role involves...", "Those conversations...", "The opportunity appeals to me..."). Keep necessary first-person ownership and conditional meaning; do not turn a proposed contribution into a claim of past experience or guaranteed access to senior clients.
 - Avoid template contrasts such as "not only..., but also...", "rather than...", "more than just...", "both...and...", and "instead of simply..." unless the user explicitly asks to preserve them.
 - Before finalizing, read the answer mentally as speech. If it would be hard to say naturally, shorten or split the sentence.
@@ -159,6 +162,8 @@ Before returning the answer:
 - Scan sentence openings for repeated "I'd" / "I would". Vary them naturally while preserving the candidate's motivation, contribution, and appropriate hypothetical tone.
 - Check abstract subjects and vague benefit phrases. Where useful, name who acts and what they do; judge -ing openings by clarity and spoken naturalness, not their grammatical form.
 - Check for a concise keyword-led opening and closing, with fuller explanation reserved for the body. A distracted listener should recover the main reasons from the summary. Check the balance: neither a long introductory explanation nor an overly casual, fragmented body.
+- Check that the answer has a clear opening, ordered body, and closing, with audible transitions such as "First" and "Second" or suitable narrative alternatives. A paragraph break alone does not satisfy the structure requirement.
+- For behavioral answers, check that one or two relevant competency keywords, such as "collaborated", "took ownership", or "leadership", appear explicitly and have concrete support.
 - Check that a listener can identify the main keywords after hearing the answer once without seeing formatting.
 - Remove abstract noun clusters, mechanical transitions, generic praise, and unnecessary technical detail while preserving the strongest example.
 - Check the actual word count and speaking time. Cut weaker points instead of squeezing them into dense sentences.
