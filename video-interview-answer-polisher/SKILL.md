@@ -23,6 +23,16 @@ The goal is to sound closer to this user's natural, comfortable spoken English. 
 - When asked whether an expression is natural or logical, answer that specific question first and make the smallest useful correction. For a single sentence, do not rewrite the full answer. Explain only material changes and distinguish necessary corrections from optional stylistic choices.
 - Never add motives, dialogue, actions, agreement, or outcomes as established facts. If resolving a story gap requires new detail, flag it separately as a suggestion for the user to confirm.
 
+## Avoid Repeated "I'd" and "I Would"
+
+This is an explicit, repeated user preference and an acceptance requirement, including for hypothetical questions.
+
+- Do not use "I'd" or "I would" as the default opening for each point. "First, I'd... Second, I'd... Finally, I'd..." is unacceptable for this user's answers.
+- For a typical 1-2 minute answer, aim for no more than one occurrence of "I'd" or "I would" in total, unless additional occurrences are necessary for meaning or explicitly requested. Set up the hypothetical once, then describe the plan through natural subjects and direct wording.
+- Prefer familiar patterns such as "My first step would be...", "The priority is...", "Prices need to cover...", and "As the team leader, my role would be...". Do not mechanically replace every "I'd" with another repeated "would" pattern; vary the sentence structure and keep wording comfortable.
+- For statements of values, use direct expressions such as "I take responsibility", "I believe in", and "For me" when they express the user's stated beliefs. For proposed actions, preserve the hypothetical context and never present an untested business assumption as a fact or a plan as past experience.
+- Example: replace "First, I'd check demand. Second, I'd control costs. Finally, I'd hire a team" with "My first step would be to check demand. Keeping costs manageable is the next priority. For the team, I'd hire people with complementary strengths."
+
 ## Timing
 
 Default to 80-120 words per minute unless the user gives a different pacing preference.
@@ -71,7 +81,7 @@ Write polished spoken English that sounds like a thoughtful candidate speaking t
 - Avoid long openings. For most answers, make the first sentence direct and under 20 words.
 - Prefer simple sentences and familiar clause patterns. Keep related sentences in connected paragraphs and retain clear spoken signposts.
 - Avoid too many parallel nouns or repeated list structures. Several paired or three-part lists in a row can sound AI-written.
-- Accept and preserve conditional phrasing such as "I would", "my first step would be", and "I would focus on" for hypothetical, market-view, or plan-of-action prompts. It sounds natural and appropriately cautious in those answers.
+- Preserve conditional meaning for hypothetical, market-view, and plan-of-action prompts, while following the explicit limit on repeated "I'd" / "I would" above. Hypothetical prompts are not an exception to the user's preference.
 - Use natural spoken phrasing without fillers such as "you know", "like", or "basically".
 - In English answers, use straight ASCII quotation marks (`"` and `'`) and apostrophes, including contractions such as `I'll` and `I'd`. Do not use curly quotation marks or curly apostrophes (`“ ” ‘ ’`) or Chinese quotation marks (`「 」 『 』`).
 - Avoid corporate slogans, exaggerated enthusiasm, and generic claims.
@@ -173,7 +183,7 @@ Before returning the answer:
 - Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 25 words for complexity. Check that the body develops each reason in connected, professional spoken English, without a string of short "I like" statements.
 - Compare with the user's latest draft and explicit feedback. Preserve their comfortable wording, sentence order, and story progression unless a specific correction is needed. Remove newly added formal framing; check that shortening has not made the answer feel less like the user.
 - Review complex clauses for speaking difficulty. Simplify nested or lengthy clauses, but retain familiar constructions and explicit user wording preferences without losing causality, uncertainty, or structure.
-- Scan sentence openings for repeated "I'd" / "I would". Vary them naturally while preserving the candidate's motivation, contribution, and appropriate hypothetical tone.
+- Count all occurrences of "I'd" and "I would", not just sentence openings. Aim for no more than one in a typical 1-2 minute answer. Revise repeated uses before delivery, especially across First/Second/Finally points, while preserving hypothetical meaning and the user's comfortable wording.
 - Check abstract subjects and vague benefit phrases. Where useful, name who acts and what they do; judge -ing openings by clarity and spoken naturalness, not their grammatical form.
 - Check for a concise keyword-led opening and closing, with fuller explanation reserved for the body. A distracted listener should recover the main reasons from the summary. Check the balance: neither a long introductory explanation nor an overly casual, fragmented body.
 - Check that the answer has a clear opening, ordered body, and closing, with audible transitions such as "First" and "Second" or suitable narrative alternatives. A paragraph break alone does not satisfy the structure requirement.
