@@ -9,6 +9,20 @@ Use this skill when the user is preparing spoken English answers for video inter
 
 This skill is more speech-focused than `application-answer-polisher`. Use it when the user gives or implies an answer duration, asks for more oral/conversational wording, or wants the response to sound natural when spoken aloud.
 
+## Personal Voice and Minimal Editing
+
+The goal is to sound closer to this user's natural, comfortable spoken English. Treat the user's own drafts and explicit feedback as the main voice reference; do not treat previous assistant rewrites or the absence of objections as proof of preference.
+
+- Preserve the user's sentence order, story progression, and familiar wording whenever they are clear and grammatically sound. Prefer local edits to a new script. Reorganise only for a concrete logic problem, prompt mismatch, or time limit, and briefly explain the reason in Chinese.
+- Retain comfortable openings such as "I'd like to share how I led...". Do not automatically replace them with a shorter, more assertive opening. A slightly longer introduction is acceptable when the user finds it easier to say.
+- The user favours straightforward, moderately professional wording: "One big challenge was...", "It really slowed down our progress", "I took the initiative to...", "I shared feedback respectfully", and "We then collaborated...". These are voice examples, not mandatory phrases for every answer.
+- Preserve connected thoughts and a clear sequence: context or challenge, response, result, and reflection. Use "First", "Second", "Finally", and other meaningful transitions. Avoid turning the script into isolated, clipped statements.
+- Keep competencies explicit through familiar action phrases such as "took ownership", "collaborated", and "took the initiative", with "leadership" where relevant. Do not substitute a less comfortable phrase solely to sound more impressive or force a keyword into every sentence.
+- Fix grammar, tense, collocations, duplicate wording, and unclear links first. For a long sentence, prefer a sentence break at the existing idea boundary over changing its vocabulary and order. For example, keep "I'd like to share how I led a small team of five to take part in a stock pitch challenge at Oxford." Then continue: "Through this experience, I developed my inclusive leadership skills."
+- Prefer simple clauses, but retain familiar, easy-to-say constructions such as "I'd like to share how..." and "I realised that..." when the user favours them. The simplicity guidelines below must not override an explicit preference for comfortable wording.
+- When asked whether an expression is natural or logical, answer that specific question first and make the smallest useful correction. For a single sentence, do not rewrite the full answer. Explain only material changes and distinguish necessary corrections from optional stylistic choices.
+- Never add motives, dialogue, actions, agreement, or outcomes as established facts. If resolving a story gap requires new detail, flag it separately as a suggestion for the user to confirm.
+
 ## Timing
 
 Default to 80-120 words per minute unless the user gives a different pacing preference.
@@ -33,11 +47,11 @@ Conversational delivery and the absence of formulaic AI phrasing are acceptance 
 ## Spoken Sentence Standard
 
 - Aim for most sentences to be 10-20 words. Review sentences over 25 words for unnecessary complexity. Use these as editing guides: keep a reason and its explanation together when they form one clear spoken thought. Do not mechanically split the answer into short statements.
-- Do not use subordinate clauses in the finished English answer. This includes relative clauses, adverbial clauses, and content clauses, even with an omitted "that". Replace constructions such as "companies that...", "because...", "even if...", "I think [that]...", and "whether..." with simple independent sentences. Use direct statements such as "My view: fuel costs will stay high." Preserve causal links with brief transitions such as "As a result" or "For this reason". Preserve uncertainty through modal verbs and separate scenario statements; never turn a conditional forecast into a fact.
+- Prefer simple clauses and avoid nested or hard-to-follow subordinate clauses. Preserve familiar constructions the user finds comfortable, including "I'd like to share how..." and "I realised that...". Split a long relative-clause ending such as "through which..." into a follow-up sentence when useful. Preserve causal links and uncertainty; never turn a conditional forecast into a fact.
 - Use natural but professional interview English. Prefer precise verbs such as "develop", "assess", "understand", and "discuss" where they carry meaning. Avoid repeatedly opening sentences with "I like" or "I'd like to", and avoid casual phrasing such as "the mix" or "getting to know people" when a more precise phrase fits. Do not replace personal motivation with corporate abstractions.
 - Use concrete verbs instead of noun-heavy phrases: "I like following markets" is easier to say than "What draws me is the combination of market engagement and relationship building".
 - Shortening alone is insufficient. Check that the words sound like something the candidate would say in conversation with an interviewer. Avoid turning every sentence into a formal declaration or a slogan.
-- Keep the opening to one concise sentence naming one or two specific keyword phrases, such as "market judgment" and "client trust". Develop the reasons in the body, then return to those phrases in a concise closing. The summary should communicate a direction without previewing every supporting detail.
+- Keep the opening brief, usually one or two sentences, naming one or two specific keyword phrases, such as "market judgment" and "client trust". Develop the reasons in the body, then return to those phrases in a concise closing. The summary should communicate a direction without previewing every supporting detail.
 - Keep related short sentences together in natural paragraphs. Do not put each sentence on a separate line or add pauses and performance directions unless requested.
 
 Example of the intended balance:
@@ -55,7 +69,7 @@ Write polished spoken English that sounds like a thoughtful candidate speaking t
 - Make the answer clear enough to say in one take.
 - Prefer short sentences and light transitions.
 - Avoid long openings. For most answers, make the first sentence direct and under 20 words.
-- Use simple independent sentences throughout. Keep related sentences in connected paragraphs and retain clear spoken signposts.
+- Prefer simple sentences and familiar clause patterns. Keep related sentences in connected paragraphs and retain clear spoken signposts.
 - Avoid too many parallel nouns or repeated list structures. Several paired or three-part lists in a row can sound AI-written.
 - Accept and preserve conditional phrasing such as "I would", "my first step would be", and "I would focus on" for hypothetical, market-view, or plan-of-action prompts. It sounds natural and appropriately cautious in those answers.
 - Use natural spoken phrasing without fillers such as "you know", "like", or "basically".
@@ -110,7 +124,7 @@ Avoid:
 
 Every finished answer must have a clear, audible structure. Structure is mandatory, even for light edits to an existing draft. Use point–support–takeaway (总分总) by default; a user-requested format or a question-specific format must still have a clear opening, ordered development, and closing. Keep the opening and closing brief and spoken; sentence simplicity and overall structure must work together:
 
-1. **Point:** Open with one concise sentence built around one or two specific keyword phrases. Use meaningful phrases such as "market judgment" and "client trust", rather than broad topic labels such as "markets and clients". Leave explanations and examples for the body.
+1. **Point:** Open briefly with one or two specific keyword phrases, preserving a familiar story-led introduction when the user prefers it. Use meaningful phrases such as "market judgment" and "client trust", rather than broad topic labels such as "markets and clients". Leave explanations and examples for the body.
 2. **Support:** Develop one or two reasons with concrete evidence or a brief story. Mark distinct reasons or action steps with "First" and "Second", or equivalent spoken transitions. Explain why each example matters.
 3. **Takeaway:** Close with one concise sentence connecting the opening keyword phrases to the role or lesson. Keep the implication clear without restating the supporting details or introducing a new reason.
 
@@ -157,8 +171,8 @@ When the user only asks for the answer, keep extra commentary minimal.
 Before returning the answer:
 
 - Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 25 words for complexity. Check that the body develops each reason in connected, professional spoken English, without a string of short "I like" statements.
-- Compare with the original draft. Remove any newly added formal framing that makes a simple personal point harder to say. Short sentences must still sound natural together.
-- Check every sentence for subordinate clauses, including omitted-"that" content clauses. Rewrite them as independent sentences without losing causality, uncertainty, or the requested structure.
+- Compare with the user's latest draft and explicit feedback. Preserve their comfortable wording, sentence order, and story progression unless a specific correction is needed. Remove newly added formal framing; check that shortening has not made the answer feel less like the user.
+- Review complex clauses for speaking difficulty. Simplify nested or lengthy clauses, but retain familiar constructions and explicit user wording preferences without losing causality, uncertainty, or structure.
 - Scan sentence openings for repeated "I'd" / "I would". Vary them naturally while preserving the candidate's motivation, contribution, and appropriate hypothetical tone.
 - Check abstract subjects and vague benefit phrases. Where useful, name who acts and what they do; judge -ing openings by clarity and spoken naturalness, not their grammatical form.
 - Check for a concise keyword-led opening and closing, with fuller explanation reserved for the body. A distracted listener should recover the main reasons from the summary. Check the balance: neither a long introductory explanation nor an overly casual, fragmented body.
