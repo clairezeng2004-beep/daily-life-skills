@@ -23,6 +23,17 @@ The goal is to sound closer to this user's natural, comfortable spoken English. 
 - When asked whether an expression is natural or logical, answer that specific question first and make the smallest useful correction. For a single sentence, do not rewrite the full answer. Explain only material changes and distinguish necessary corrections from optional stylistic choices.
 - Never add motives, dialogue, actions, agreement, or outcomes as established facts. If resolving a story gap requires new detail, flag it separately as a suggestion for the user to confirm.
 
+## Sparse Notes: Avoid Doing-Phrase and List Padding
+
+The user explicitly dislikes answers padded with repeated -ing phrases and parallel lists, especially when their notes contain little detail.
+
+- When the user provides limited material, keep the answer proportionate. Develop the strongest supplied point with a clear explanation; do not fill the word count with generic activities, responsibilities, or invented operational details.
+- Prefer a concrete subject and a direct verb: "The business needs a steady client base" is easier for this user than "Keeping costs manageable and attracting clients are essential". This is a preference about repetitive, noun-heavy phrasing, not a ban on every -ing word.
+- Avoid stacked constructions such as "bringing together...", "my role would involve setting..., organising..., and helping...", and repeated lists of services, channels, or strengths. Choose the detail that matters and explain its purpose or effect.
+- Keep simple, useful pairs when natural. Do not mechanically remove every "and" or replace one list with several clipped sentences. Preserve connected paragraphs, the user's original order, and First/Second/Finally signposts where appropriate.
+- Do not solve the repeated "I'd" problem by replacing each instance with a gerund subject or a list of abstract responsibilities. Review both patterns together.
+- Example: replace "My role would involve setting responsibilities, organising schedules, and maintaining quality" with "As the team leader, I'd give each person a clear role. A shared standard for the photos would help us deliver consistent work." Use this only as a wording pattern, not as invented biographical evidence.
+
 ## Avoid Repeated "I'd" and "I Would"
 
 This is an explicit, repeated user preference and an acceptance requirement, including for hypothetical questions.
@@ -179,6 +190,8 @@ When the user only asks for the answer, keep extra commentary minimal.
 ## Final Spoken Quality Check
 
 Before returning the answer:
+
+- Check for repeated -ing subjects, "involve doing" constructions, and parallel lists across adjacent sentences. Replace list padding with one clear point and its explanation. If the input is sparse, shorten the answer rather than inventing detail or filling space with generic tasks.
 
 - Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 25 words for complexity. Check that the body develops each reason in connected, professional spoken English, without a string of short "I like" statements.
 - Compare with the user's latest draft and explicit feedback. Preserve their comfortable wording, sentence order, and story progression unless a specific correction is needed. Remove newly added formal framing; check that shortening has not made the answer feel less like the user.
