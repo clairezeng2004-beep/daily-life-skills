@@ -25,7 +25,7 @@ Stay slightly under the upper limit when the answer includes names, technical te
 Conversational delivery and the absence of formulaic AI phrasing are acceptance criteria, not optional polish. Write for a listener who hears the answer once.
 
 - Use everyday verbs, natural contractions, and sentences that fit a comfortable breath. Preserve useful technical terms and explain their practical meaning simply.
-- Prefer "What draws me to MS is..." to "These capabilities underpin my interest...". Describe what a client or candidate can actually do.
+- Prefer "MS appeals to me for two reasons" to "These capabilities underpin my interest...". Describe concrete actions and motivations.
 - Vary sentence length and openings. Avoid corporate abstractions, polished symmetry, repeated three-part lists, and slogan-like endings.
 - Keep evidence precise without reciting full report titles or stacking rankings. Prefer one memorable example with a short attribution.
 - Never invent experiences or exaggerate evidence to create an engaging hook.
@@ -33,7 +33,7 @@ Conversational delivery and the absence of formulaic AI phrasing are acceptance 
 ## Spoken Sentence Standard
 
 - Aim for most sentences to be 10-20 words. Review sentences over 25 words for unnecessary complexity. Use these as editing guides: keep a reason and its explanation together when they form one clear spoken thought. Do not mechanically split the answer into short statements.
-- Give each sentence one main idea, with a short explanation when useful. A simple because, how, or whether clause can make professional spoken English flow better than several disconnected statements.
+- Do not use subordinate clauses in the finished English answer. This includes relative clauses, adverbial clauses, and content clauses, even with an omitted "that". Replace constructions such as "companies that...", "because...", "even if...", "I think [that]...", and "whether..." with simple independent sentences. Use direct statements such as "My view: fuel costs will stay high." Preserve causal links with brief transitions such as "As a result" or "For this reason". Preserve uncertainty through modal verbs and separate scenario statements; never turn a conditional forecast into a fact.
 - Use natural but professional interview English. Prefer precise verbs such as "develop", "assess", "understand", and "discuss" where they carry meaning. Avoid repeatedly opening sentences with "I like" or "I'd like to", and avoid casual phrasing such as "the mix" or "getting to know people" when a more precise phrase fits. Do not replace personal motivation with corporate abstractions.
 - Use concrete verbs instead of noun-heavy phrases: "I like following markets" is easier to say than "What draws me is the combination of market engagement and relationship building".
 - Shortening alone is insufficient. Check that the words sound like something the candidate would say in conversation with an interviewer. Avoid turning every sentence into a formal declaration or a slogan.
@@ -42,7 +42,7 @@ Conversational delivery and the absence of formulaic AI phrasing are acceptance 
 
 Example of the intended balance:
 - Too fragmented: "I like getting feedback. It makes me question my assumptions. Sometimes I change my view."
-- Professional and speakable: "That feedback encourages me to question my assumptions and decide whether my view still holds."
+- Professional and speakable: "That feedback helps me reassess my assumptions. My view sometimes changes as a result."
 
 ## Output Style
 
@@ -55,7 +55,7 @@ Write polished spoken English that sounds like a thoughtful candidate speaking t
 - Make the answer clear enough to say in one take.
 - Prefer short sentences and light transitions.
 - Avoid long openings. For most answers, make the first sentence direct and under 20 words.
-- Minimize subordinate clauses. Split sentences when a listener may lose the point.
+- Use simple independent sentences throughout. Keep related sentences in connected paragraphs and retain clear spoken signposts.
 - Avoid too many parallel nouns or repeated list structures. Several paired or three-part lists in a row can sound AI-written.
 - Accept and preserve conditional phrasing such as "I would", "my first step would be", and "I would focus on" for hypothetical, market-view, or plan-of-action prompts. It sounds natural and appropriately cautious in those answers.
 - Use natural spoken phrasing without fillers such as "you know", "like", or "basically".
@@ -95,9 +95,9 @@ Do not simply stack these words in a list. Anchor them in the user's actions.
 
 Good patterns:
 - "I took the lead in building a portrait photography studio at university."
-- "I led the weekly planning and made sure each client knew what to expect before the shoot."
-- "That taught me how to build trust quickly, especially when someone felt nervous in front of the camera."
-- "It also made me think more commercially, because I had to balance pricing, equipment costs and return on investment."
+- "I led the weekly planning and explained the shoot to each client in advance."
+- "Some clients felt nervous in front of the camera. I learned to build trust quickly."
+- "I also balanced pricing and equipment costs against potential returns. This developed my commercial judgment."
 
 Avoid:
 - "This experience improved my leadership, teamwork, communication, adaptability and commercial awareness."
@@ -118,7 +118,7 @@ For behavioral questions, place situation, action and result inside the supporti
 Help the listener follow the answer and remember its key ideas:
 
 - Choose one or two concrete keywords, such as "stock borrowing", "execution", or "client trust". Introduce them early, develop each with evidence, and echo the main idea naturally in the takeaway.
-- Use short audible cues at meaningful transitions: "The first is...", "The other is...", "One example is...", "What matters here is...", or "That's why...". Use only those needed; avoid a fixed sequence in every answer.
+- Use short audible cues at meaningful transitions: "First...", "Second...", "One example is...", "My main point is...", or "As a result...". Use only those needed; avoid a fixed sequence in every answer.
 - Keywords should organize real content. Do not stack competency buzzwords, manufacture dramatic hooks, or make unsupported claims to attract attention.
 - Keep signposts within natural sentences. Bold formatting and numbered headings cannot substitute for cues a listener can hear.
 
@@ -127,7 +127,7 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 ## Editing Rules
 
 - Quietly fix grammar, collocations, and tense.
-- Prefer an explicit subject and concrete action when a sentence sounds abstract or written. An -ing subject is not inherently AI-like; revise it when it packages an abstract benefit, especially with phrases such as "bring relevant ideas to our discussions". For example, "I'd want to understand what matters to each client, so I could share useful market ideas" is more direct than "Understanding clients' priorities would help me bring relevant ideas to our discussions". Keep natural -ing openings when they are clear and easy to say; do not impose a blanket ban.
+- Prefer an explicit subject and concrete action when a sentence sounds abstract or written. An -ing subject is not inherently AI-like; revise it when it packages an abstract benefit, especially with phrases such as "bring relevant ideas to our discussions". For example, "I'd first clarify each client's priorities. Those priorities would guide my market ideas" is more direct than "Understanding clients' priorities would help me bring relevant ideas to our discussions". Keep natural -ing openings when they are clear and easy to say; do not impose a blanket ban.
 - Replace stiff phrases with native spoken English.
 - Preserve vivid user details when they help the story stick, such as a client's nervousness, direct feedback, a concrete tool, monthly revenue, or ROI thinking.
 - Preserve useful technical detail when it supports the answer, such as collateral quality, liquidity mismatch, refinancing risk, senior secured loans, covenants, or recovery value. Make the terms speakable rather than removing them.
@@ -135,7 +135,7 @@ For "Tell us something about yourself that is not on your resume", focus on a me
 - Remove dense lists of abstract nouns.
 - Reduce parallel wording. Rewrite strings like "collateral opacity, liquidity mismatches, and over-concentration" into one main point plus a sentence of explanation, unless the prompt explicitly asks for a list.
 - Use capability words sparingly. Prefer "took the lead", "managed client communication", "built trust", "paid attention to small details", and "thought about return on investment" over a plain list of strengths.
-- Preserve "would" where a hypothetical action needs it, but avoid a run of sentences beginning with "I'd" or "I would". This user prefers varied openings: use the role, a specific responsibility, a client conversation, or a personal motivation as the subject when natural ("The role involves...", "Those conversations...", "What appeals to me..."). Keep necessary first-person ownership and conditional meaning; do not turn a proposed contribution into a claim of past experience or guaranteed access to senior clients.
+- Preserve "would" where a hypothetical action needs it, but avoid a run of sentences beginning with "I'd" or "I would". This user prefers varied openings: use the role, a specific responsibility, a client conversation, or a personal motivation as the subject when natural ("The role involves...", "Those conversations...", "The opportunity appeals to me..."). Keep necessary first-person ownership and conditional meaning; do not turn a proposed contribution into a claim of past experience or guaranteed access to senior clients.
 - Avoid template contrasts such as "not only..., but also...", "rather than...", "more than just...", "both...and...", and "instead of simply..." unless the user explicitly asks to preserve them.
 - Before finalizing, read the answer mentally as speech. If it would be hard to say naturally, shorten or split the sentence.
 
@@ -155,6 +155,7 @@ Before returning the answer:
 
 - Read it mentally aloud. Rewrite sentences that sound like an annual report, written essay, or memorized template. Review sentences over 25 words for complexity. Check that the body develops each reason in connected, professional spoken English, without a string of short "I like" statements.
 - Compare with the original draft. Remove any newly added formal framing that makes a simple personal point harder to say. Short sentences must still sound natural together.
+- Check every sentence for subordinate clauses, including omitted-"that" content clauses. Rewrite them as independent sentences without losing causality, uncertainty, or the requested structure.
 - Scan sentence openings for repeated "I'd" / "I would". Vary them naturally while preserving the candidate's motivation, contribution, and appropriate hypothetical tone.
 - Check abstract subjects and vague benefit phrases. Where useful, name who acts and what they do; judge -ing openings by clarity and spoken naturalness, not their grammatical form.
 - Check for a concise keyword-led opening and closing, with fuller explanation reserved for the body. A distracted listener should recover the main reasons from the summary. Check the balance: neither a long introductory explanation nor an overly casual, fragmented body.
