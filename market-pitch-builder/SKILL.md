@@ -49,6 +49,12 @@ This voice does not claim the candidate conducted interviews, built a model, ind
 
 Avoid making the speech about future diligence: "I would examine", "I would test", "I would focus on", or "I would need to show". Such statements belong in a separate missing-evidence note. Conditional language remains appropriate for genuine scenarios and risk responses.
 
+Make the conclusion explicit before explaining what to monitor. "Diesel matters for inflation" identifies a topic; a view states the expected outcome and why, such as "I expect fuel inflation to remain persistent because shipping and refining capacity cannot recover quickly." Use such a claim only when the evidence supports it, and identify added interpretation outside the speech.
+
+For each main thesis, connect an expected outcome to a concrete causal mechanism and its market implication. Give the relevant horizon, comparison, and invalidating condition where supported. Explain which force is likely to dominate in the base case; avoid ending with symmetrical possibilities such as "inflation could hurt bonds, but weaker growth could help" without a judgment. If the evidence cannot support a direction, narrow the claim or omit that asset instead of manufacturing conviction.
+
+Monitoring points should test an already stated view. "Watch tanker traffic" is not a substitute for predicting whether supply is likely to recover. Likewise, "gold offers diversification" does not by itself express a price view. Explain the expected effect of the event without assuming that a useful hedge must rise or that a favourable business development makes a security cheap. Do not invent mispricing or a consensus disagreement to make the view sound distinctive.
+
 Do not make unsupported certainty sound like conviction. A clear base-case judgment can be expressed directly while retaining the condition that would invalidate it. Remove empty assertions such as "the business doesn't need a major announcement every quarter" unless the source supports a concrete mechanism that matters to the trade.
 
 When asked whether the original author made a claim, answer candidly using the ledger. Identify additions and corrections; do not defend an earlier draft by stretching source meaning.
@@ -92,4 +98,4 @@ Before delivering a final pitch, read and apply [video-interview-answer-polisher
 - Keep citations outside the reusable speech. Where writing blocks are supported, place only the pitch itself in one block.
 - For a final-draft-only request, return the speech with at most a brief note about remaining placeholders. Do not append a research checklist or unsolicited long/short discussion.
 
-Before delivering, check that every material claim is supported or visibly conditional, valuation years are clear, thesis points do not duplicate valuation, the catalyst is not fabricated, and the speech sounds like a pitch rather than a proposal to do research.
+Before delivering, check that every material claim is supported or visibly conditional, valuation years are clear, thesis points do not duplicate valuation, and the catalyst is not fabricated. A listener should be able to state what outcome the speaker expects, why it is more likely than the main alternative, and what would invalidate it. Revise any passage that only lists important variables, explains generic asset behaviour, or proposes future research without communicating a view.
