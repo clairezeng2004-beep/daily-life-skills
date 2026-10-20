@@ -98,6 +98,16 @@ Separate observed price reactions from expected future reactions. Distinguish an
 
 Before delivering a final pitch, read and apply [video-interview-answer-polisher](../video-interview-answer-polisher/SKILL.md) from this repository. Use its spoken-language editing and final quality check to make the English clear, natural, and easy to follow on first hearing. Preserve this skill's stock/news pitch structure, market reasoning, source distinctions, and evidence constraints; do not replace them with the polishing skill's default point-support-takeaway structure or behavioral interview framing. Language polish must not add claims or turn a conditional forecast into a fact.
 
+### Spoken sentence standard
+
+The user prefers natural interview speech over written research prose. Treat this as a delivery requirement, including when the investment logic is technically complex.
+
+- Avoid repeated participial add-ons such as ", raising concerns...", ", making investors..." and ", leaving bondholders...". Use a complete sentence with a named subject and verb, or a short because/so clause that makes the causal relationship explicit. For example: "Borrowing costs rose. Investors became more concerned about profits." Preserve whether causality is established or inferred.
+- Avoid chains of -ing phrases and gerund-led abstract subjects. Do not ban ordinary market terms such as earnings, financing or pricing, or natural progressive verbs merely because they end in -ing.
+- Aim for most sentences to be about 10–20 words. Review sentences over 25 words, nested relative clauses, and sentences with several qualifications. Split at a natural idea boundary without losing material conditions or turning the speech into disconnected fragments.
+- Prefer familiar verbs and concrete explanations: "The company needs to borrow more" instead of "The business faces greater funding requirements"; "Other lenders get paid first" instead of "There are substantial claims ahead of the unsecured debt". Keep a technical term when it helps, and explain it briefly.
+- Read each English pitch aloud mentally before delivery. Rewrite sentences that sound like a research report, or that require the listener to remember several clauses before understanding the point. Preserve the four news sections, first-person judgment and source fidelity. The Chinese notes must not compensate for unclear English.
+
 ### Source language and client comprehension
 
 - Prefer financial terms and natural collocations already present in the reports read for this pitch, or established financial-market expressions. Do not invent terminology, unusual word pairings, compressed labels or slogans to sound sophisticated. When neither source wording nor a familiar market expression is clear, use ordinary English to explain the mechanism.
