@@ -108,6 +108,15 @@ The user prefers natural interview speech over written research prose. Treat thi
 - Prefer familiar verbs and concrete explanations: "The company needs to borrow more" instead of "The business faces greater funding requirements"; "Other lenders get paid first" instead of "There are substantial claims ahead of the unsecured debt". Keep a technical term when it helps, and explain it briefly.
 - Read each English pitch aloud mentally before delivery. Rewrite sentences that sound like a research report, or that require the listener to remember several clauses before understanding the point. Preserve the four news sections, first-person judgment and source fidelity. The Chinese notes must not compensate for unclear English.
 
+### Direct client updates
+
+For institutional-client market updates, preserve the user's supplied structure, such as Fact / Why / Positioning / Watch next, rather than forcing the default single-news format.
+
+- Explain why events happened in plain causal sentences. Avoid newsreader summaries such as "export strength showed resilience" or "concerns added to uncertainty"; name who spends, borrows, produces or sells and what changes. Use a short first-person judgment when interpreting the evidence, without upgrading uncertainty into fact.
+- In Positioning, make the speaker the subject of the decision: "I prefer exporters with ... because ..." or "I will wait for ... before adding exposure." Explain the reason for that choice instead of saying abstractly that "the story needs support". Vary sentence openings; do not begin every sentence with "I'd" or insert "I think" into every factual sentence.
+- In Watch next, directly recommend what the client should watch: "I suggest watching ..." followed by specific indicators and what result would change the view. Avoid vague lines such as "the key is" or "the data will help test the outlook" without naming the consequence.
+- Prefer "Funds that track those indices may have to sell" to compressed research expressions such as "benchmark-related outflows". Keep necessary index and product distinctions accurate. These examples guide wording and do not establish facts or recommendations for a new pitch.
+
 ### Source language and client comprehension
 
 - Prefer financial terms and natural collocations already present in the reports read for this pitch, or established financial-market expressions. Do not invent terminology, unusual word pairings, compressed labels or slogans to sound sophisticated. When neither source wording nor a familiar market expression is clear, use ordinary English to explain the mechanism.
