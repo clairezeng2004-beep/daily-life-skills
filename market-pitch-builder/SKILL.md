@@ -110,6 +110,8 @@ The user prefers natural interview speech over written research prose. Treat thi
 
 ### Direct client updates
 
+For multi-news client updates, read the [user-approved Asian equities example](references/asian-equities-client-update.md) as the voice and structure reference. Preserve its concise fact → cause paragraphs, substantive first-person positioning, compact watch list and copyable bilingual layout; adapt the news, not the user’s voice.
+
 For institutional-client market updates, follow the user's supplied structure. For a short multi-news update, prefer `What happened and why:` / `Positioning:` / `Watch next:`: give each event and its cause together, rather than listing all facts first and repeating them in a separate Why section. Keep the default four-section structure for a single-news pitch unless requested otherwise.
 
 - In each numbered news paragraph, state the event briefly and immediately explain the main cause with an audible link such as "That’s because...", "That’s partly because..." or "Investors reacted to...". Keep one or two material drivers; cut newsreader padding. Do not let the connector imply proven causality when the source offers only a possible explanation.
