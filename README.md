@@ -12,6 +12,7 @@ Personal Codex skills for everyday admin, writing, inbox cleanup, planning, and 
 - `feishu-table-filter`: Restore personal Feishu/Lark table filters from a local, untracked configuration file before the user reviews records.
 - `research-why-bank-program`: Research and draft differentiated, evidence-backed “Why this bank/company?” and “Why this programme/role?” answers.
 - `market-pitch-builder`: Turn research reports and news into confident, evidence-grounded stock and news pitches for Sales and Trading interviews.
+- `market-sizing-interview`: Practise market-sizing interviews with defensible estimates, compact arrow frameworks, and natural first-person spoken English.
 - `skill-self-iteration`: Turn lessons from using a skill into focused skill updates, validation, and repository uploads.
 - `video-interview-answer-polisher`: Turn Chinese or English interview notes into concise, natural spoken English answers for timed video interviews.
 
@@ -27,5 +28,6 @@ Each skill lives in its own folder. A folder should contain the skill's `SKILL.m
 - `feishu-table-filter/`: Feishu/Lark table filtering workflow, agent configuration, and local filter example.
 - `research-why-bank-program/`: Employer and programme research workflow, agent configuration, and icon.
 - `market-pitch-builder/`: Source-grounded stock and news pitch workflow with natural spoken English and clear evidence boundaries.
+- `market-sizing-interview/`: Interview estimation coaching, personal speaking preferences, and public method references.
 - `skill-self-iteration/`: Skill maintenance workflow for self-iteration, validation, and upload discipline.
 - `video-interview-answer-polisher/`: Time-aware spoken English polishing workflow for video interview application answers.

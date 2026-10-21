@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Sizing Interview"
+  short_description: "Practise estimates with clear, natural spoken English"
+  default_prompt: "Use $market-sizing-interview to build a concise estimation framework or polish my spoken interview answer in my own style."
